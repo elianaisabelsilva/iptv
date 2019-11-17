@@ -1,0 +1,1757 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="RTP 1" tvg-name="RTP 1" tvg-logo="" group-title="PORTUGAL",RTP 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1.ts
+#EXTINF:-1 tvg-ID="RTP 1" tvg-name="RTP 1 HD" tvg-logo="" group-title="PORTUGAL",RTP 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/2.ts
+#EXTINF:-1 tvg-ID="RTP 2" tvg-name="RTP 2" tvg-logo="" group-title="PORTUGAL",RTP 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/4.ts
+#EXTINF:-1 tvg-ID="RTP 2" tvg-name="RTP 2 HD" tvg-logo="" group-title="PORTUGAL",RTP 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/5.ts
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="" group-title="PORTUGAL",SIC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/7.ts
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="" group-title="PORTUGAL",SIC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/8.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="" group-title="PORTUGAL",TVI
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/10.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="" group-title="PORTUGAL",TVI HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/11.ts
+#EXTINF:-1 tvg-ID="Rtp Internacional" tvg-name="RTP INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",RTP INTERNACIONAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/13.ts
+#EXTINF:-1 tvg-ID="TVI Internacional" tvg-name="TVI INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",TVI INTERNACIONAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/15.ts
+#EXTINF:-1 tvg-ID="Porto Canal" tvg-name="PORTO CANAL" tvg-logo="" group-title="PORTUGAL",PORTO CANAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/16.ts
+#EXTINF:-1 tvg-ID="RTP Africa" tvg-name="RTP AFRICA" tvg-logo="" group-title="PORTUGAL",RTP AFRICA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/19.ts
+#EXTINF:-1 tvg-ID="RTP Madeira" tvg-name="RTP MADEIRA" tvg-logo="" group-title="PORTUGAL",RTP MADEIRA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/21.ts
+#EXTINF:-1 tvg-ID="RTP ACORES" tvg-name="RTP ACORES" tvg-logo="" group-title="PORTUGAL",RTP ACORES
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/23.ts
+#EXTINF:-1 tvg-ID="RTP Memoria" tvg-name="RTP MEMORIA" tvg-logo="" group-title="PORTUGAL",RTP MEMORIA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/25.ts
+#EXTINF:-1 tvg-ID="Canal Q" tvg-name="CANAL Q" tvg-logo="" group-title="PORTUGAL",CANAL Q
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/27.ts
+#EXTINF:-1 tvg-ID="RTP 3" tvg-name="RTP 3" tvg-logo="" group-title="PORTUGAL",RTP 3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/29.ts
+#EXTINF:-1 tvg-ID="RTP 3" tvg-name="RTP 3 HD" tvg-logo="" group-title="PORTUGAL",RTP 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/30.ts
+#EXTINF:-1 tvg-ID="SIC NOTICIAS" tvg-name="SIC NOTICIAS" tvg-logo="" group-title="PORTUGAL",SIC NOTICIAS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/32.ts
+#EXTINF:-1 tvg-ID="SIC NOTICIAS" tvg-name="SIC NOTICIAS HD" tvg-logo="" group-title="PORTUGAL",SIC NOTICIAS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/33.ts
+#EXTINF:-1 tvg-ID="TVI 24" tvg-name="TVI 24" tvg-logo="" group-title="PORTUGAL",TVI 24
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/35.ts
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV" tvg-logo="" group-title="PORTUGAL",CMTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/37.ts
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV HD" tvg-logo="" group-title="PORTUGAL",CMTV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/38.ts
+#EXTINF:-1 tvg-ID="ARTV" tvg-name="ARTV" tvg-logo="" group-title="PORTUGAL",ARTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/40.ts
+#EXTINF:-1 tvg-ID="REGIOES TV" tvg-name="REGIOES TV" tvg-logo="" group-title="PORTUGAL",REGIOES TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/41.ts
+#EXTINF:-1 tvg-ID="TVE Internacional" tvg-name="TVE INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",TVE INTERNACIONAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/42.ts
+#EXTINF:-1 tvg-ID="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL",BBC ENTERTAINMENT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/43.ts
+#EXTINF:-1 tvg-ID="TV Galicia" tvg-name="TV GALICIA" tvg-logo="" group-title="PORTUGAL",TV GALICIA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/44.ts
+#EXTINF:-1 tvg-ID="France 24" tvg-name="FRANCE 24" tvg-logo="" group-title="PORTUGAL",FRANCE 24
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVE 24H" tvg-logo="" group-title="PORTUGAL",TVE 24H
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/47.ts
+#EXTINF:-1 tvg-ID="TV5 Monde" tvg-name="TV5 MONDE" tvg-logo="" group-title="PORTUGAL",TV5 MONDE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/48.ts
+#EXTINF:-1 tvg-ID="Deutsche Welle" tvg-name="DEUTSCHE WELLE" tvg-logo="" group-title="PORTUGAL",DEUTSCHE WELLE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/49.ts
+#EXTINF:-1 tvg-ID="EuroNews" tvg-name="EURONEWS" tvg-logo="" group-title="PORTUGAL",EURONEWS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/51.ts
+#EXTINF:-1 tvg-ID="CNN" tvg-name="CNN" tvg-logo="" group-title="PORTUGAL",CNN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS NEWS" tvg-logo="" group-title="PORTUGAL",CBS NEWS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC EUROPE" tvg-logo="" group-title="PORTUGAL",CNBC EUROPE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/55.ts
+#EXTINF:-1 tvg-ID="SKY NEWS" tvg-name="SKY NEWS" tvg-logo="" group-title="PORTUGAL",SKY NEWS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/56.ts
+#EXTINF:-1 tvg-ID="FOX News" tvg-name="FOX NEWS" tvg-logo="" group-title="PORTUGAL",FOX NEWS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/58.ts
+#EXTINF:-1 tvg-ID="BBC World News" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="PORTUGAL",BBC WORLD NEWS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/59.ts
+#EXTINF:-1 tvg-ID="Bloomberg" tvg-name="BLOOMBERG" tvg-logo="" group-title="PORTUGAL",BLOOMBERG
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/60.ts
+#EXTINF:-1 tvg-ID="TVI FICCAO" tvg-name="TVI FICCAO" tvg-logo="" group-title="PORTUGAL",TVI FICCAO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/61.ts
+#EXTINF:-1 tvg-ID="SIC MULHER" tvg-name="SIC MULHER" tvg-logo="" group-title="PORTUGAL",SIC MULHER
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/63.ts
+#EXTINF:-1 tvg-ID="SIC MULHER" tvg-name="SIC MULHER HD" tvg-logo="" group-title="PORTUGAL",SIC MULHER HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/64.ts
+#EXTINF:-1 tvg-ID="SIC Caras" tvg-name="SIC CARAS" tvg-logo="" group-title="PORTUGAL",SIC CARAS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/66.ts
+#EXTINF:-1 tvg-ID="SIC Caras" tvg-name="SIC CARAS HD" tvg-logo="" group-title="PORTUGAL",SIC CARAS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/67.ts
+#EXTINF:-1 tvg-ID="SIC Radical" tvg-name="SIC RADICAL" tvg-logo="" group-title="PORTUGAL",SIC RADICAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/69.ts
+#EXTINF:-1 tvg-ID="SIC Radical" tvg-name="SIC RADICAL HD" tvg-logo="" group-title="PORTUGAL",SIC RADICAL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/70.ts
+#EXTINF:-1 tvg-ID="TVI REALITY" tvg-name="TVI REALITY" tvg-logo="" group-title="PORTUGAL",TVI REALITY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/72.ts
+#EXTINF:-1 tvg-ID="TVI REALITY - CAMERA 1" tvg-name="TVI REALITY CAM 1" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAM 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/74.ts
+#EXTINF:-1 tvg-ID="TVI REALITY - CAMERA 2" tvg-name="TVI REALITY CAM 2" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAM 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/75.ts
+#EXTINF:-1 tvg-ID="TVI REALITY - CAMERA 3" tvg-name="TVI REALITY CAM 3" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAM 3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/76.ts
+#EXTINF:-1 tvg-ID="TVI REALITY - CAMERA 4" tvg-name="TVI REALITY CAM 4" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAM 4
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/77.ts
+#EXTINF:-1 tvg-ID="TVI REALITY - MOSAICO" tvg-name="TVI MOSAICO" tvg-logo="" group-title="PORTUGAL",TVI MOSAICO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/78.ts
+#EXTINF:-1 tvg-ID="localvisao" tvg-name="LOCALVISAO" tvg-logo="" group-title="PORTUGAL",LOCALVISAO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/79.ts
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="" group-title="PORTUGAL",TLC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/81.ts
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="" group-title="PORTUGAL",CBS REALITY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/82.ts
+#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL",E! ENTERTAINMENT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/83.ts
+#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="E! ENTERTAINMENT HD" tvg-logo="" group-title="PORTUGAL",E! ENTERTAINMENT HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/84.ts
+#EXTINF:-1 tvg-ID="Crime   Investigacao" tvg-name="CRIME INVESTIGATION" tvg-logo="" group-title="PORTUGAL",CRIME INVESTIGATION
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/86.ts
+#EXTINF:-1 tvg-ID="SPORTV +" tvg-name="SPORT TV" tvg-logo="" group-title="PORTUGAL",SPORT TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/87.ts
+#EXTINF:-1 tvg-ID="SPORTV +" tvg-name="SPORT TV   HD" tvg-logo="" group-title="PORTUGAL",SPORT TV   HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/88.ts
+#EXTINF:-1 tvg-ID="SPORTV +" tvg-name="SPORT TV    [LOW]" tvg-logo="" group-title="PORTUGAL",SPORT TV    [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/89.ts
+#EXTINF:-1 tvg-ID="SPORTV +" tvg-name="SPORT TV 4K" tvg-logo="" group-title="PORTUGAL",SPORT TV 4K
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/90.ts
+#EXTINF:-1 tvg-ID="Sport tv 1" tvg-name="SPORT TV 1" tvg-logo="" group-title="PORTUGAL",SPORT TV 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/92.ts
+#EXTINF:-1 tvg-ID="Sport tv 1" tvg-name="SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL",SPORT TV 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/93.ts
+#EXTINF:-1 tvg-ID="Sport tv 1" tvg-name="SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",SPORT TV 1 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/94.ts
+#EXTINF:-1 tvg-ID="Sport tv 1" tvg-name="SPORT TV 1 [LOW]" tvg-logo="" group-title="PORTUGAL",SPORT TV 1 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/95.ts
+#EXTINF:-1 tvg-ID="Sport TV 2" tvg-name="SPORT TV 2" tvg-logo="" group-title="PORTUGAL",SPORT TV 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/96.ts
+#EXTINF:-1 tvg-ID="Sport TV 2" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL",SPORT TV 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/97.ts
+#EXTINF:-1 tvg-ID="Sport TV 2" tvg-name="SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",SPORT TV 2 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/98.ts
+#EXTINF:-1 tvg-ID="Sport TV 2" tvg-name="SPORT TV 2 [LOW]" tvg-logo="" group-title="PORTUGAL",SPORT TV 2 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/99.ts
+#EXTINF:-1 tvg-ID="Sport TV 3" tvg-name="SPORT TV 3" tvg-logo="" group-title="PORTUGAL",SPORT TV 3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/100.ts
+#EXTINF:-1 tvg-ID="Sport TV 3" tvg-name="SPORT TV 3 HD" tvg-logo="" group-title="PORTUGAL",SPORT TV 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/101.ts
+#EXTINF:-1 tvg-ID="Sport TV 3" tvg-name="SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL",SPORT TV 3 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/102.ts
+#EXTINF:-1 tvg-ID="Sport TV 3" tvg-name="SPORT TV 3 [LOW]" tvg-logo="" group-title="PORTUGAL",SPORT TV 3 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/103.ts
+#EXTINF:-1 tvg-ID="Sport TV 4" tvg-name="SPORT TV 4" tvg-logo="" group-title="PORTUGAL",SPORT TV 4
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/104.ts
+#EXTINF:-1 tvg-ID="Sport TV 4" tvg-name="SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL",SPORT TV 4 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/105.ts
+#EXTINF:-1 tvg-ID="Sport TV 4" tvg-name="SPORT TV 4 FHD" tvg-logo="" group-title="PORTUGAL",SPORT TV 4 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/106.ts
+#EXTINF:-1 tvg-ID="Sport TV 4" tvg-name="SPORT TV 4 [LOW]" tvg-logo="" group-title="PORTUGAL",SPORT TV 4 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/107.ts
+#EXTINF:-1 tvg-ID="Sport TV 5" tvg-name="SPORT TV 5" tvg-logo="" group-title="PORTUGAL",SPORT TV 5
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/108.ts
+#EXTINF:-1 tvg-ID="Sport TV 5" tvg-name="SPORT TV 5 HD" tvg-logo="" group-title="PORTUGAL",SPORT TV 5 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/109.ts
+#EXTINF:-1 tvg-ID="Sport TV 5" tvg-name="SPORT TV 5 FHD" tvg-logo="" group-title="PORTUGAL",SPORT TV 5 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/110.ts
+#EXTINF:-1 tvg-ID="Sport TV 5" tvg-name="SPORT TV 5 [LOW]" tvg-logo="" group-title="PORTUGAL",SPORT TV 5 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/91.ts
+#EXTINF:-1 tvg-ID="SPORT TV NBA" tvg-name="SPORT TV NBA" tvg-logo="" group-title="PORTUGAL",SPORT TV NBA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/111.ts
+#EXTINF:-1 tvg-ID="SPORT TV NBA" tvg-name="SPORT TV NBA HD" tvg-logo="" group-title="PORTUGAL",SPORT TV NBA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/112.ts
+#EXTINF:-1 tvg-ID="SPORT TV NBA" tvg-name="SPORT TV NBA [LOW]" tvg-logo="" group-title="PORTUGAL",SPORT TV NBA [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/113.ts
+#EXTINF:-1 tvg-ID="NBA" tvg-name="NBA TV" tvg-logo="" group-title="PORTUGAL",NBA TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/114.ts
+#EXTINF:-1 tvg-ID="BTV 1" tvg-name="BTV" tvg-logo="" group-title="PORTUGAL",BTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/115.ts
+#EXTINF:-1 tvg-ID="BTV 1" tvg-name="BTV HD" tvg-logo="" group-title="PORTUGAL",BTV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/116.ts
+#EXTINF:-1 tvg-ID="BTV 1" tvg-name="BTV FHD" tvg-logo="" group-title="PORTUGAL",BTV FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/117.ts
+#EXTINF:-1 tvg-ID="BTV 1" tvg-name="BTV [LOW]" tvg-logo="" group-title="PORTUGAL",BTV [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/118.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 1 SD" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/119.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 1 SD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/120.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 1 SD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/121.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 1 SD" tvg-name="ELEVEN SPORTS 1 [LOW]" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 1 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/122.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 2 SD" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/123.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 2 SD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/124.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 2 SD" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/125.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 2 SD" tvg-name="ELEVEN SPORTS 2 [LOW]" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 2 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/126.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 3 HD" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/127.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 3 HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/128.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 3 HD" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 3 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/129.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 3 HD" tvg-name="ELEVEN SPORTS 3 [LOW]" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 3 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/130.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 4 HD" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 4
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/131.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 4 HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/132.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 4 HD" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 4 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/133.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 4 HD" tvg-name="ELEVEN SPORTS 4 [LOW]" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 4 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/134.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 5 HD" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 5
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/135.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 5 HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/136.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 5 HD" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 5 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/137.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 5 HD" tvg-name="ELEVEN SPORTS 5 [LOW]" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 5 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/138.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 6 HD" tvg-name="ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 6
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/139.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 6 HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/140.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 6 HD" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 6 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/141.ts
+#EXTINF:-1 tvg-ID="Eleven Sports 6 HD" tvg-name="ELEVEN SPORTS 6 [LOW]" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 6 [LOW]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/142.ts
+#EXTINF:-1 tvg-ID="Sporting TV" tvg-name="SPORTING TV" tvg-logo="" group-title="PORTUGAL",SPORTING TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/143.ts
+#EXTINF:-1 tvg-ID="Sporting TV" tvg-name="SPORTING TV HD" tvg-logo="" group-title="PORTUGAL",SPORTING TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/144.ts
+#EXTINF:-1 tvg-ID="Canal 11" tvg-name="CANAL 11" tvg-logo="" group-title="PORTUGAL",CANAL 11
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/146.ts
+#EXTINF:-1 tvg-ID="Canal 11" tvg-name="CANAL 11 HD" tvg-logo="" group-title="PORTUGAL",CANAL 11 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/147.ts
+#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA TV" tvg-logo="" group-title="PORTUGAL",A BOLA TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/149.ts
+#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA TV HD" tvg-logo="" group-title="PORTUGAL",A BOLA TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/150.ts
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="EUROSPORT 1" tvg-logo="" group-title="PORTUGAL",EUROSPORT 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/152.ts
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGAL",EUROSPORT 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/153.ts
+#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="PORTUGAL",EUROSPORT 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/155.ts
+#EXTINF:-1 tvg-ID="PFC" tvg-name="PFC" tvg-logo="" group-title="PORTUGAL",PFC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/157.ts
+#EXTINF:-1 tvg-ID="Motorvision HD" tvg-name="MOTORVISION" tvg-logo="" group-title="PORTUGAL",MOTORVISION
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/159.ts
+#EXTINF:-1 tvg-ID="Kombat Sport" tvg-name="KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",KOMBAT SPORT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/161.ts
+#EXTINF:-1 tvg-ID="Fight Network HD" tvg-name="FIGHT Network HD" tvg-logo="" group-title="PORTUGAL",FIGHT Network HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/163.ts
+#EXTINF:-1 tvg-ID="Fuel TV HD" tvg-name="FUEL TV" tvg-logo="" group-title="PORTUGAL",FUEL TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/164.ts
+#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV" tvg-logo="" group-title="PORTUGAL",TOROS TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/166.ts
+#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV HD" tvg-logo="" group-title="PORTUGAL",TOROS TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/167.ts
+#EXTINF:-1 tvg-ID="CASA E PESCA" tvg-name="CACA E PESCA" tvg-logo="" group-title="PORTUGAL",CACA E PESCA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/168.ts
+#EXTINF:-1 tvg-ID="CASA E PESCA" tvg-name="CACA E PESCA HD" tvg-logo="" group-title="PORTUGAL",CACA E PESCA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/169.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CACAVISION" tvg-logo="" group-title="PORTUGAL",CACAVISION
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/171.ts
+#EXTINF:-1 tvg-ID="Red Bull TV" tvg-name="RED BULL TV" tvg-logo="" group-title="PORTUGAL",RED BULL TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMBATE" tvg-logo="" group-title="PORTUGAL",COMBATE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/174.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMBATE [HD]" tvg-logo="" group-title="PORTUGAL",COMBATE [HD]
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/175.ts
+#EXTINF:-1 tvg-ID="TVCine 1" tvg-name="TVCINE 1" tvg-logo="" group-title="PORTUGAL",TVCINE 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/177.ts
+#EXTINF:-1 tvg-ID="TVCine 1" tvg-name="TVCINE 1 HD" tvg-logo="" group-title="PORTUGAL",TVCINE 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/178.ts
+#EXTINF:-1 tvg-ID="TVCine 2" tvg-name="TVCINE 2" tvg-logo="" group-title="PORTUGAL",TVCINE 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/180.ts
+#EXTINF:-1 tvg-ID="TVCine 2" tvg-name="TVCINE 2 HD" tvg-logo="" group-title="PORTUGAL",TVCINE 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/181.ts
+#EXTINF:-1 tvg-ID="TVCine 3" tvg-name="TVCINE 3" tvg-logo="" group-title="PORTUGAL",TVCINE 3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/183.ts
+#EXTINF:-1 tvg-ID="TVCine 3" tvg-name="TVCINE 3 HD" tvg-logo="" group-title="PORTUGAL",TVCINE 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/184.ts
+#EXTINF:-1 tvg-ID="TVCine 4" tvg-name="TVCINE 4" tvg-logo="" group-title="PORTUGAL",TVCINE 4
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/186.ts
+#EXTINF:-1 tvg-ID="TVCine 4" tvg-name="TVCINE 4 HD" tvg-logo="" group-title="PORTUGAL",TVCINE 4 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/187.ts
+#EXTINF:-1 tvg-ID="Hollywood" tvg-name="HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",HOLLYWOOD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/189.ts
+#EXTINF:-1 tvg-ID="Hollywood" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="PORTUGAL",HOLLYWOOD HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/190.ts
+#EXTINF:-1 tvg-ID="cinemundo" tvg-name="CINEMUNDO" tvg-logo="" group-title="PORTUGAL",CINEMUNDO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/192.ts
+#EXTINF:-1 tvg-ID="cinemundo" tvg-name="CINEMUNDO HD" tvg-logo="" group-title="PORTUGAL",CINEMUNDO HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/193.ts
+#EXTINF:-1 tvg-ID="FOX Movies" tvg-name="FOX MOVIES" tvg-logo="" group-title="PORTUGAL",FOX MOVIES
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/195.ts
+#EXTINF:-1 tvg-ID="FOX Movies" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="PORTUGAL",FOX MOVIES HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/196.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="" group-title="PORTUGAL",AMC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/198.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC HD" tvg-logo="" group-title="PORTUGAL",AMC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/199.ts
+#EXTINF:-1 tvg-ID="NOS Studios SD" tvg-name="NOS STUDIOS" tvg-logo="" group-title="PORTUGAL",NOS STUDIOS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/201.ts
+#EXTINF:-1 tvg-ID="NOS Studios SD" tvg-name="NOS STUDIOS HD" tvg-logo="" group-title="PORTUGAL",NOS STUDIOS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/202.ts
+#EXTINF:-1 tvg-ID="Kuriakos TV" tvg-name="KURIAKOS Cine" tvg-logo="" group-title="PORTUGAL",KURIAKOS Cine
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/203.ts
+#EXTINF:-1 tvg-ID="TV Series" tvg-name="TVSERIES" tvg-logo="" group-title="PORTUGAL",TVSERIES
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/204.ts
+#EXTINF:-1 tvg-ID="TV Series" tvg-name="TVSERIES HD" tvg-logo="" group-title="PORTUGAL",TVSERIES HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/205.ts
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN" tvg-logo="" group-title="PORTUGAL",AXN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/207.ts
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD" tvg-logo="" group-title="PORTUGAL",AXN HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/208.ts
+#EXTINF:-1 tvg-ID="AXN WHITE HD" tvg-name="AXN WHITE" tvg-logo="" group-title="PORTUGAL",AXN WHITE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/210.ts
+#EXTINF:-1 tvg-ID="AXN WHITE HD" tvg-name="AXN WHITE HD" tvg-logo="" group-title="PORTUGAL",AXN WHITE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/211.ts
+#EXTINF:-1 tvg-ID="AXNBLACK HD" tvg-name="AXN BLACK" tvg-logo="" group-title="PORTUGAL",AXN BLACK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/213.ts
+#EXTINF:-1 tvg-ID="AXNBLACK HD" tvg-name="AXN BLACK HD" tvg-logo="" group-title="PORTUGAL",AXN BLACK HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/214.ts
+#EXTINF:-1 tvg-ID="FOX  HD" tvg-name="FOX" tvg-logo="" group-title="PORTUGAL",FOX
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/216.ts
+#EXTINF:-1 tvg-ID="FOX  HD" tvg-name="FOX HD" tvg-logo="" group-title="PORTUGAL",FOX HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/217.ts
+#EXTINF:-1 tvg-ID="foxlife HD" tvg-name="FOX LIFE" tvg-logo="" group-title="PORTUGAL",FOX LIFE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/219.ts
+#EXTINF:-1 tvg-ID="foxlife HD" tvg-name="FOX LIFE HD" tvg-logo="" group-title="PORTUGAL",FOX LIFE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/220.ts
+#EXTINF:-1 tvg-ID="foxcomedy HD" tvg-name="FOX COMEDY" tvg-logo="" group-title="PORTUGAL",FOX COMEDY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/222.ts
+#EXTINF:-1 tvg-ID="foxcomedy HD" tvg-name="FOX COMEDY HD" tvg-logo="" group-title="PORTUGAL",FOX COMEDY HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/223.ts
+#EXTINF:-1 tvg-ID="FOXCrime HD" tvg-name="FOX CRIME" tvg-logo="" group-title="PORTUGAL",FOX CRIME
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/225.ts
+#EXTINF:-1 tvg-ID="FOXCrime HD" tvg-name="FOX CRIME HD" tvg-logo="" group-title="PORTUGAL",FOX CRIME HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/226.ts
+#EXTINF:-1 tvg-ID="Syfy" tvg-name="SYFY" tvg-logo="" group-title="PORTUGAL",SYFY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/228.ts
+#EXTINF:-1 tvg-ID="Syfy" tvg-name="SYFY HD" tvg-logo="" group-title="PORTUGAL",SYFY HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/229.ts
+#EXTINF:-1 tvg-ID="Eurochannel" tvg-name="EUROCHANNEL" tvg-logo="" group-title="PORTUGAL",EUROCHANNEL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/231.ts
+#EXTINF:-1 tvg-ID="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",DISNEY CHANNEL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/233.ts
+#EXTINF:-1 tvg-ID="disneyjunior" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",DISNEY JUNIOR
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/235.ts
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL",CARTOON NETWORK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/237.ts
+#EXTINF:-1 tvg-ID="Canal Panda" tvg-name="PANDA" tvg-logo="" group-title="PORTUGAL",PANDA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/239.ts
+#EXTINF:-1 tvg-ID="NickJunior" tvg-name="NICKELODEON" tvg-logo="" group-title="PORTUGAL",NICKELODEON
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/241.ts
+#EXTINF:-1 tvg-ID="NickJunior" tvg-name="NICK JR" tvg-logo="" group-title="PORTUGAL",NICK JR
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/243.ts
+#EXTINF:-1 tvg-ID="Biggs" tvg-name="PANDA BIGGS" tvg-logo="" group-title="PORTUGAL",PANDA BIGGS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/244.ts
+#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC K" tvg-logo="" group-title="PORTUGAL",SIC K
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/246.ts
+#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC K HD" tvg-logo="" group-title="PORTUGAL",SIC K HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="" group-title="PORTUGAL",BOOMERANG
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/249.ts
+#EXTINF:-1 tvg-ID="Jim Jam" tvg-name="JIM JAM" tvg-logo="" group-title="PORTUGAL",JIM JAM
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/251.ts
+#EXTINF:-1 tvg-ID="Tiji" tvg-name="Tiji" tvg-logo="" group-title="PORTUGAL",Tiji
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/253.ts
+#EXTINF:-1 tvg-ID="Baby TV" tvg-name="BABY TV" tvg-logo="" group-title="PORTUGAL",BABY TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KURIAKOS Kids" tvg-logo="" group-title="PORTUGAL",KURIAKOS Kids
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/256.ts
+#EXTINF:-1 tvg-ID="Globo" tvg-name="GLOBO" tvg-logo="" group-title="PORTUGAL",GLOBO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/257.ts
+#EXTINF:-1 tvg-ID="Globo" tvg-name="GLOBO HD" tvg-logo="" group-title="PORTUGAL",GLOBO HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/258.ts
+#EXTINF:-1 tvg-ID="Globo now" tvg-name="GLOBO NOW" tvg-logo="" group-title="PORTUGAL",GLOBO NOW
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/260.ts
+#EXTINF:-1 tvg-ID="Globo now" tvg-name="GLOBO NOW HD" tvg-logo="" group-title="PORTUGAL",GLOBO NOW HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",GLOBO INTERNACIONAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/263.ts
+#EXTINF:-1 tvg-ID="TV RECORD" tvg-name="TV RECORD" tvg-logo="" group-title="PORTUGAL",TV RECORD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/264.ts
+#EXTINF:-1 tvg-ID="TV RECORD" tvg-name="TV RECORD HD" tvg-logo="" group-title="PORTUGAL",TV RECORD HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/265.ts
+#EXTINF:-1 tvg-ID="Record News" tvg-name="RECORD NEWS" tvg-logo="" group-title="PORTUGAL",RECORD NEWS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/267.ts
+#EXTINF:-1 tvg-ID="Al Jazeera English" tvg-name="ALJAZEERA HD" tvg-logo="" group-title="PORTUGAL",ALJAZEERA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/269.ts
+#EXTINF:-1 tvg-ID="TCV INTERNACIONAL" tvg-name="TCV Internacional." tvg-logo="" group-title="PORTUGAL",TCV Internacional.
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/271.ts
+#EXTINF:-1 tvg-ID="ZAP Viva Angola" tvg-name="ZAP VIVA HD" tvg-logo="" group-title="PORTUGAL",ZAP VIVA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/273.ts
+#EXTINF:-1 tvg-ID="TPA Internacional" tvg-name="TPA" tvg-logo="" group-title="PORTUGAL",TPA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV MOCAMBIQUE" tvg-logo="" group-title="PORTUGAL",TV MOCAMBIQUE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV MOCAMBIQUE INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",TV MOCAMBIQUE INTERNACIONAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/277.ts
+#EXTINF:-1 tvg-ID="Cubavisión Internacional" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",CUBAVISION INTERNACIONAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/278.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MACAU TV" tvg-logo="" group-title="PORTUGAL",MACAU TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/279.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MIAMI TV" tvg-logo="" group-title="PORTUGAL",MIAMI TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="PORTUGAL",NHK WORLD JAPAN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL 1 RUSSIA" tvg-logo="" group-title="PORTUGAL",CHANNEL 1 RUSSIA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/282.ts
+#EXTINF:-1 tvg-ID="Russia Today" tvg-name="RUSSIA" tvg-logo="" group-title="PORTUGAL",RUSSIA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/283.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RT DOC HD" tvg-logo="" group-title="PORTUGAL",RT DOC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/285.ts
+#EXTINF:-1 tvg-ID="Nacional Geographic HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/286.ts
+#EXTINF:-1 tvg-ID="Nacional Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/287.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild HD" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/289.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild HD" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/290.ts
+#EXTINF:-1 tvg-ID="Historia" tvg-name="HISTORIA" tvg-logo="" group-title="PORTUGAL",HISTORIA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/292.ts
+#EXTINF:-1 tvg-ID="Odisseia" tvg-name="ODISSEIA" tvg-logo="" group-title="PORTUGAL",ODISSEIA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/294.ts
+#EXTINF:-1 tvg-ID="Odisseia" tvg-name="ODISSEIA HD" tvg-logo="" group-title="PORTUGAL",ODISSEIA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/295.ts
+#EXTINF:-1 tvg-ID="ID Investigation Discovery HD" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/297.ts
+#EXTINF:-1 tvg-ID="Discover channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",DISCOVERY CHANNEL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/298.ts
+#EXTINF:-1 tvg-ID="Discover channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="PORTUGAL",DISCOVERY CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/299.ts
+#EXTINF:-1 tvg-ID="Blaze" tvg-name="BLAZE" tvg-logo="" group-title="PORTUGAL",BLAZE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/301.ts
+#EXTINF:-1 tvg-ID="Blaze" tvg-name="BLAZE HD" tvg-logo="" group-title="PORTUGAL",BLAZE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/302.ts
+#EXTINF:-1 tvg-ID="24 Kitchen HD" tvg-name="24 KITCHEN" tvg-logo="" group-title="PORTUGAL",24 KITCHEN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/304.ts
+#EXTINF:-1 tvg-ID="24 Kitchen HD" tvg-name="24 KITCHEN HD" tvg-logo="" group-title="PORTUGAL",24 KITCHEN HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/305.ts
+#EXTINF:-1 tvg-ID="MY CUISINE" tvg-name="MY CUISINE" tvg-logo="" group-title="PORTUGAL",MY CUISINE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/307.ts
+#EXTINF:-1 tvg-ID="FOOD NETWORK HD" tvg-name="THE FOOD NETWORK" tvg-logo="" group-title="PORTUGAL",THE FOOD NETWORK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/309.ts
+#EXTINF:-1 tvg-ID="FOOD NETWORK HD" tvg-name="THE FOOD NETWORK HD" tvg-logo="" group-title="PORTUGAL",THE FOOD NETWORK HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SAUDE" tvg-logo="" group-title="PORTUGAL",SAUDE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SAUDE HD" tvg-logo="" group-title="PORTUGAL",SAUDE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/313.ts
+#EXTINF:-1 tvg-ID="Luxe TV FHD" tvg-name="LUXE TV HD" tvg-logo="" group-title="PORTUGAL",LUXE TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/314.ts
+#EXTINF:-1 tvg-ID="Outdoor Channel FHD" tvg-name="OUTDOOR HD" tvg-logo="" group-title="PORTUGAL",OUTDOOR HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/315.ts
+#EXTINF:-1 tvg-ID="Mas Chic3" tvg-name="MAS CHIC" tvg-logo="" group-title="PORTUGAL",MAS CHIC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/316.ts
+#EXTINF:-1 tvg-ID="Travel Channel HD" tvg-name="TRAVEL CHANNEL" tvg-logo="" group-title="PORTUGAL",TRAVEL CHANNEL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/317.ts
+#EXTINF:-1 tvg-ID="Travel Channel HD" tvg-name="TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL",TRAVEL CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/318.ts
+#EXTINF:-1 tvg-ID="Canal 180" tvg-name="180 HD" tvg-logo="" group-title="PORTUGAL",180 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GINX ESPORTS TV HD" tvg-logo="" group-title="PORTUGAL",GINX ESPORTS TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UM EUROPA" tvg-logo="" group-title="PORTUGAL",UM EUROPA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/322.ts
+#EXTINF:-1 tvg-ID="Fine Living Network HD" tvg-name="FINE LIVING NETWORK HD" tvg-logo="" group-title="PORTUGAL",FINE LIVING NETWORK HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/323.ts
+#EXTINF:-1 tvg-ID="GAMETOON" tvg-name="GAMETOON" tvg-logo="" group-title="PORTUGAL",GAMETOON
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/324.ts
+#EXTINF:-1 tvg-ID="MyZen TV" tvg-name="MYZEN TV HD" tvg-logo="" group-title="PORTUGAL",MYZEN TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/325.ts
+#EXTINF:-1 tvg-ID="" tvg-name="THE QYOU HD" tvg-logo="" group-title="PORTUGAL",THE QYOU HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/326.ts
+#EXTINF:-1 tvg-ID="DOG TV" tvg-name="DOG TV" tvg-logo="" group-title="PORTUGAL",DOG TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/327.ts
+#EXTINF:-1 tvg-ID="FASHION TV (FTV)" tvg-name="FASHION TV HD" tvg-logo="" group-title="PORTUGAL",FASHION TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/329.ts
+#EXTINF:-1 tvg-ID="Kuriakos TV" tvg-name="KURIAKOS TV HD" tvg-logo="" group-title="PORTUGAL",KURIAKOS TV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/331.ts
+#EXTINF:-1 tvg-ID="TV Fatima" tvg-name="FATIMA TV" tvg-logo="" group-title="PORTUGAL",FATIMA TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/332.ts
+#EXTINF:-1 tvg-ID="cancao nova" tvg-name="CANCAO NOVA" tvg-logo="" group-title="PORTUGAL",CANCAO NOVA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/333.ts
+#EXTINF:-1 tvg-ID="MTV Portugal" tvg-name="MTV" tvg-logo="" group-title="PORTUGAL",MTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/334.ts
+#EXTINF:-1 tvg-ID="MTV Portugal" tvg-name="MTV HD" tvg-logo="" group-title="PORTUGAL",MTV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="PORTUGAL",MTV LIVE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/336.ts
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="" group-title="PORTUGAL",VH1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/337.ts
+#EXTINF:-1 tvg-ID="Trace Urban" tvg-name="TRACE URBAN" tvg-logo="" group-title="PORTUGAL",TRACE URBAN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/338.ts
+#EXTINF:-1 tvg-ID="Trace Urban" tvg-name="TRACE URBAN HD" tvg-logo="" group-title="PORTUGAL",TRACE URBAN HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE TOCA" tvg-logo="" group-title="PORTUGAL",TRACE TOCA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE TOCA HD" tvg-logo="" group-title="PORTUGAL",TRACE TOCA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/342.ts
+#EXTINF:-1 tvg-ID="MVM (music)" tvg-name="MVM" tvg-logo="" group-title="PORTUGAL",MVM
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/344.ts
+#EXTINF:-1 tvg-ID="MCM POP" tvg-name="MCM POP" tvg-logo="" group-title="PORTUGAL",MCM POP
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/345.ts
+#EXTINF:-1 tvg-ID="MCM TOP" tvg-name="MCM TOP" tvg-logo="" group-title="PORTUGAL",MCM TOP
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KURIAKOS Music" tvg-logo="" group-title="PORTUGAL",KURIAKOS Music
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/348.ts
+#EXTINF:-1 tvg-ID="iConcerts HD" tvg-name="ICONCERTS." tvg-logo="" group-title="PORTUGAL",ICONCERTS.
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/349.ts
+#EXTINF:-1 tvg-ID="Clubbing TV" tvg-name="CLUBBING TV" tvg-logo="" group-title="PORTUGAL",CLUBBING TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="C-MUSIC" tvg-logo="" group-title="PORTUGAL",C-MUSIC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/351.ts
+#EXTINF:-1 tvg-ID="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",AFRO MUSIC
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEBLACK CLASSIK" tvg-logo="" group-title="PORTUGAL",BEBLACK CLASSIK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEBLACK CARIBEAN" tvg-logo="" group-title="PORTUGAL",BEBLACK CARIBEAN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEBLACK AFRICA" tvg-logo="" group-title="PORTUGAL",BEBLACK AFRICA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/356.ts
+#EXTINF:-1 tvg-ID="mezzo" tvg-name="MEZZO" tvg-logo="" group-title="PORTUGAL",MEZZO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="The Lion King 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/devZdyPRXMiN8HHiX7Y8s0LLEee.jpg" group-title="AVENTURA",The Lion King 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1090.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Stuber 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klkFYDZOetegK8floj6IjvbzzQ2.jpg" group-title="COMEDIA",Stuber 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1091.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El Camino A Breaking Bad Movie 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg" group-title="DRAMA",El Camino A Breaking Bad Movie 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1092.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Wunderland" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg" group-title="GUERRA",Wunderland
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1087.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Predator" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ChuhWonCxyTIwdwYHX3t1vwyN.jpg" group-title="ACÇAO",The Predator
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1086.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Marine 6 Close Quarters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CvMJ9pTQmFzz1ep1seuqKkqbLT.jpg" group-title="ACÇAO",The Marine 6 Close Quarters
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1085.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Marine 5 Battleground" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scT71EjoMhoFUAddEzLMYDnvPlM.jpg" group-title="ACÇAO",The Marine 5 Battleground
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1084.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Equalizer 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hppFXFZLdl8ftoHIotqPqcWbGy.jpg" group-title="ACÇAO",The Equalizer 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1088.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Taxi 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg" group-title="ACÇAO",Taxi 5
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1081.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible - Fallout" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i273qQubszItr11lQNMFWnYP4J1.jpg" group-title="AVENTURA",Mission Impossible - Fallout
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1083.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ghost Rider Spirit Of Vengeance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsWqvNyvFj8mWTwZCVMZFgkGTHL.jpg" group-title="ACÇAO",Ghost Rider Spirit Of Vengeance
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1078.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ghost Rider" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLaqB6jNgUo4D7YzTcwgsj8flS.jpg" group-title="ACÇAO",Ghost Rider
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1077.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Doctor Strange" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg" group-title="ACÇAO",Doctor Strange
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1080.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Deadpool" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUGIvLbJek9W8JTp0hNTnPM6qS9.jpg" group-title="ACÇAO",Deadpool
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1079.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ant-Man And The Wasp" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azH25XpelbpzSEg8JoQVJQsFNF7.jpg" group-title="AVENTURA",Ant-Man And The Wasp
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1082.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="What The Health" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz9cPeSmiGLA1EDUPszlrWfSrId.jpg" group-title="DOCUMENTARIOS",What The Health
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1068.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Take Your Pills" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo2rBT7vdsyWFBH5aoJ8pk7am79.jpg" group-title="DOCUMENTARIOS",Take Your Pills
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1069.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Negação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/samfdjbzxLe6jYiD4aYiZn5VzjU.jpg" group-title="DOCUMENTARIOS",Negação
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1070.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="How The Beatles Changed The World" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAvgaf6CaO2FGuHeCDqsH3JxOB1.jpg" group-title="DOCUMENTARIOS",How The Beatles Changed The World
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1071.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fatima" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNoThWyfSLZsV1q6fPfxcgHN2SN.jpg" group-title="DOCUMENTARIOS",Fatima
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1072.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Earth One Amazing Day" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OKStVtpeptnfIgxXEyQubMMTey.jpg" group-title="DOCUMENTARIOS",Earth One Amazing Day
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1073.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Demon House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80gFuW9wIeKEaswSspSGjSEOcDE.jpg" group-title="DOCUMENTARIOS",Demon House
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1075.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Platoon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYPOQI57JVNmjiLI3KeZ5KA8O9i.jpg" group-title="GUERRA",Platoon
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1067.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="12 Strong" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="GUERRA",12 Strong
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1066.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Zez Di Camargo E Luciano - Dvd Completo Ao Vivo Na Estrada" tvg-logo="https://http2.mlstatic.com/dvd-zeze-di-camargo-luciano-ao-vivo-na-estrada-D_NQ_NP_830605-MLB25036758740_092016-F.jpg" group-title="MUSICA",Zez Di Camargo E Luciano - Dvd Completo Ao Vivo Na Estrada
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1054.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Xutos & Pontapes - Rock In Rio Lisboa" tvg-logo="https://s3.observador.pt/wp-content/uploads/2017/11/30200617/capa_xutos.jpg" group-title="MUSICA",Xutos & Pontapes - Rock In Rio Lisboa
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1055.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tony Carreira Concerto 25 Anos Meo Arena" tvg-logo="http://madeinportugalmusica.pt/wp-content/uploads/2013/11/Tony-Carreira-25-anos-disco-novo.jpg" group-title="MUSICA",Tony Carreira Concerto 25 Anos Meo Arena
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1056.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Music Of Silence" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZps182dDYFS6HJgqsTkRXrR0vh.jpg" group-title="MUSICA",The Music Of Silence
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1057.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Australian Pink Floyd Show" tvg-logo="https://img.discogs.com/disOuqIUo2IQoIti80_ddg5gWh0=/fit-in/600x841/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10606846-1500833406-4716.jpeg.jpg" group-title="MUSICA",The Australian Pink Floyd Show
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1058.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="RuiVeloso O Concerto Acustico" tvg-logo="https://img.discogs.com/br4EGoX9Nej2JOhQNu1H2r1Udpk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3931447-1349636383-9346.jpeg.jpg" group-title="MUSICA",RuiVeloso O Concerto Acustico
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1059.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Red Hot Chili Peppers A Live At Slane Castle" tvg-logo="https://aurculture.com/wp-content/uploads/2018/01/R-1162737-1197254678.jpeg.jpg" group-title="MUSICA",Red Hot Chili Peppers A Live At Slane Castle
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1060.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jumanji  Welcome To The Jungle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1ViCmMtBwK68zUbsRPrCghHD1x.jpg" group-title="AVENTURA",Jumanji  Welcome To The Jungle
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1064.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Journey 2 The Mysterious Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsclrVHTwpjLvUx7p8Vj6p2hF1A.jpg" group-title="AVENTURA",Journey 2 The Mysterious Island
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1065.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fifty Shades Freed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hFP4LYQq3crRhdKJOjx391f2kD.jpg" group-title="SAGAS",Fifty Shades Freed
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1063.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fifty Shades Darker" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wJzRaVxwVrUlnGJZ4gBZYHu1Hn.jpg" group-title="SAGAS",Fifty Shades Darker
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1062.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fifty Shades Of Grey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn33DYwP21lyOaZ9m6vXQviPOGb.jpg" group-title="SAGAS",Fifty Shades Of Grey
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1061.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fast And Furious Presents Hobbs And Shaw 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="ACÇAO",Fast And Furious Presents Hobbs And Shaw 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/359.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Annabelle Comes Home 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVuVpl6Wo6GcXjORJXuR2DuFFx3.jpg" group-title="TERROR",Annabelle Comes Home 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/360.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Venom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="ACÇAO",Venom
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1004.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Thor Ragnarok" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg" group-title="AVENTURA",Thor Ragnarok
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1016.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Night Comes For Us" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg" group-title="ACÇAO",The Night Comes For Us
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1005.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Meg" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrJkShDPK4TcV0nHix3HASEmkul.jpg" group-title="ACÇAO",The Meg
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1009.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Paul Apostle Of Christ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J8IDXJlURmOwX3KnfYitSr7QbR.jpg" group-title="ACÇAO",Paul Apostle Of Christ
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1008.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Operation Red Sea" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ctXBO0o5fKQvGdSJsPc8TAYCvp.jpg" group-title="GUERRA",Operation Red Sea
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1007.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Oceans Eight" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt9mZXpX2CnVLHKulKGFUMyfmyd.jpg" group-title="ACÇAO",Oceans Eight
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1006.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Justice League" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Yes0ojuwkeim4uBMjzZMN6omkq.jpg" group-title="ACÇAO",Justice League
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1012.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick A Chapter 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7AmR5HVeSu3EkQdQw4DPfct2mJ.jpg" group-title="ACÇAO",John Wick A Chapter 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1011.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians Of The Galaxy Vol2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg" group-title="AVENTURA",Guardians Of The Galaxy Vol2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1015.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Guardians Of The Galaxy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfTzl6t3nOi3OhbScOnO4TOEdqp.jpg" group-title="AVENTURA",Guardians Of The Galaxy
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1014.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Boyka Undisputed IV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpFdjPQXVtFYK5ErPRmLjSLR2oo.jpg" group-title="ACÇAO",Boyka Undisputed IV
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1010.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Baywatch" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2Bu17G3CSjCnEizXBY9CYxXEUn.jpg" group-title="COMEDIA",Baywatch
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1022.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Avengers Infinity War" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" group-title="AVENTURA",Avengers Infinity War
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1021.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers The Last Knight" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg" group-title="SAGAS",Transformers The Last Knight
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/998.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers Age Of Extinction" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPrE4voXz5OugKTh1D0aucssJOL.jpg" group-title="SAGAS",Transformers Age Of Extinction
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/997.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers Dark Of The Moon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WnGq5nnyMoD4OhoeK4rwzYHzGl.jpg" group-title="SAGAS",Transformers Dark Of The Moon
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/996.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers Revenge Of The Fallen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8b0QXzjQVpViS81rbMXU0Y2T3x.jpg" group-title="SAGAS",Transformers Revenge Of The Fallen
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/995.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transformers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSHEGS0kC5RND8KXei0x1uKyHuH.jpg" group-title="SAGAS",Transformers
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/994.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Home Alone The Holiday Heist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XPbba0kfQkLWjkttnPFPzSf09a.jpg" group-title="SAGAS",Home Alone The Holiday Heist
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1003.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Home Alone 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL2Ri3PHs9V1ot3V8ZUvrtFgj9h.jpg" group-title="SAGAS",Home Alone 4
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1002.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Home Alone 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6ugEdjGuY4qcX1ymdV2CTVSvKN.jpg" group-title="SAGAS",Home Alone 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1001.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Home Alone 2 Lost In New York" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pPbGVPiyhLHqBSFKHRDcGOfPwT.jpg" group-title="SAGAS",Home Alone 2 Lost In New York
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/1000.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Home Alone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IWPBT1rkAaI8Kpk5V3WfQRklJ7.jpg" group-title="SAGAS",Home Alone
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/999.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Fate Of The Furious" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg" group-title="SAGAS",The Fate Of The Furious
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/993.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Furious 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqJibUsewtEW8DwK4rBpba1lvEx.jpg" group-title="SAGAS",Furious 7
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/992.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fast & Furious 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLWnVSy5RvGqLKHxmb4obKER6gj.jpg" group-title="SAGAS",Fast & Furious 6
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/991.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fast Five" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCt7oKBMyyl3GThIAR5DCgoaWVD.jpg" group-title="SAGAS",Fast Five
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/990.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fast & Furious" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZXCpMVmxNJcPdACknLLctZLTLt.jpg" group-title="SAGAS",Fast & Furious
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/989.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Fast And The Furious Tokyo Drift" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMXQb3w2fTBw3ot1a52Byay4RQx.jpg" group-title="SAGAS",The Fast And The Furious Tokyo Drift
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/988.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="2 Fast 2 Furious" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="SAGAS",2 Fast 2 Furious
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/987.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Fast And The Furious" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FUqXrudOZ1jbvnVxPLoph0H8yF.jpg" group-title="SAGAS",The Fast And The Furious
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/986.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Expendables 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdADygQvL3OcEoEYgFyVarl1xf6.jpg" group-title="SAGAS",The Expendables 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/985.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Expendables 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQXzCt3JNCmvqOS5Yj0sqOrVIx0.jpg" group-title="SAGAS",The Expendables 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/984.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Expendables" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS82u5O8nNrvBtH4qb4anlVbJlu.jpg" group-title="SAGAS",The Expendables
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/983.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Hobbit The.Battle Of The Five Armies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0ddJa85vxeyG47inckazn7Yknu.jpg" group-title="SAGAS",The Hobbit The.Battle Of The Five Armies
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/982.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Hobbit The Desolation Of Smaug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfYd1E0hapNp030Z4rWlJLRtlqm.jpg" group-title="SAGAS",The Hobbit The Desolation Of Smaug
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/981.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Hobbit An Unexpected Journey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeLKztQXPkSccTySEmyCqBvZfsO.jpg" group-title="SAGAS",The Hobbit An Unexpected Journey
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/980.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Lord Of The Rings The Return Of The King" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogZpvZXEPfvb1KeFh4tEcYO9fau.jpg" group-title="SAGAS",The Lord Of The Rings The Return Of The King
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/979.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Lord Of The.Rings The Two Towers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgIiIpu4v7nYTrzX73ndmDVw2ZI.jpg" group-title="SAGAS",The Lord Of The.Rings The Two Towers
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/978.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Lord Of The Rings The Fellowship Of The Ring" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCyFGKCUAnIwsXJUZZsz9DJL3iG.jpg" group-title="SAGAS",The Lord Of The Rings The Fellowship Of The Ring
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/977.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jigsaw" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSff3xHVdhC7LJieqHoBxYJIn1r.jpg" group-title="SAGAS",Jigsaw
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/976.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Saw The Final Chapter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljafMdfykwsZsg2VhpVWeDTmFNj.jpg" group-title="SAGAS",Saw The Final Chapter
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/975.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Saw VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJ8efsCTjZI4AAtCviyoYhGMPve.jpg" group-title="",Saw VI
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/974.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Saw V" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dekLwgyBcckm65Uk8SJjTXD9pf5.jpg" group-title="SAGAS",Saw V
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/973.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Saw IV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flgE8ikV7k7X82Sx4vyt8b1F9f3.jpg" group-title="SAGAS",Saw IV
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/972.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Saw III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsUSp8OfCMgZQql1K2mxqnnFWrA.jpg" group-title="",Saw III
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/971.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Saw II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbHtBF7fDVyn2FBp0qFGOvFkgLl.jpg" group-title="SAGAS",Saw II
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/970.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Saw" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0jLBBqarDo5LzsYcY7tQppSwNy.jpg" group-title="SAGAS",Saw
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/969.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Men In Black 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2YYWjhRUiZTHLFbcPUs6ghzSlA.jpg" group-title="SAGAS",Men In Black 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/968.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Men In Black II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zX7gbWOAI0Koox9hf4BXGf40xZ.jpg" group-title="SAGAS",Men In Black II
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/967.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Men In Black" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pef2mKVCSb5y0UVtBD2yMPnpAzb.jpg" group-title="SAGAS",Men In Black
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/966.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Red Sea Diving Resort 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZiYWI3MWMtM2NiZi00Y2E0LWI1ODctNmNhMDUyNGMzODkwXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="DRAMA",The Red Sea Diving Resort 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/718.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Shaft 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmExNGZmYzItZTMzMi00YWJjLWJkYmQtMDg5MjgzYjYyZDk1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="ACÇAO",Shaft 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/713.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="See You Yesterday 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU3ODc1NzAtZWIwYy00YTdjLWEwZDItY2Y1ZGIyMmY0Yzc4XkEyXkFqcGdeQXVyMjIxNjgxNTA@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="ACÇAO",See You Yesterday 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/708.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Secret Obsession 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRjNmUyMjEtZjllNS00YWU5LTlkZjgtNWE2MzNhMzIwNTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="DRAMA",Secret Obsession 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/717.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Point Blank 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThkZjRmNWYtMWQ5Mi00Y2E4LWEyZjgtYWYxMDhiNTJmNTQzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="ACÇAO",Point Blank 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/715.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Oh Ramona 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU1YmM2MTQtMDI2Zi00ZDNkLWExYWItMGU4NjA3NjA2MWU4XkEyXkFqcGdeQXVyNjU4MjE5Njk@._V1_SY1000_CR0,0,717,1000_AL_.jpg" group-title="ROMANCE",Oh Ramona 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/711.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Murder Mystery 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="ACÇAO",Murder Mystery 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/712.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kidnapping Stella 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRkOTkxMGItNDZjMi00NmMxLWE3ZmItNTc1OTY0NDlkOTNhXkEyXkFqcGdeQXVyMjA0NjM1Nw@@._V1_.jpg" group-title="DRAMA",Kidnapping Stella 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/714.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="I Am Mother 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="DRAMA",I Am Mother 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/710.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Good Sam 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzcxMDM0NWItMTVmYS00ODFkLWFlZTctYjZhMGM4ZTg3ODJiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="COMEDIA",Good Sam 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/707.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Girls With Balls 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5OTM0NDktNjRjZC00Y2Q2LTk4NmItYWNkZmE1YmUyNGU0XkEyXkFqcGdeQXVyMTIwMzIxNDg@._V1_.jpg" group-title="COMEDIA",Girls With Balls 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/716.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Apostle 2018" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NDk0NjI4MV5BMl5BanBnXkFtZTgwNjUyNzMwNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="DRAMA",Apostle 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/706.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Always Be My Maybe 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM2NWFjYTctZjFiYy00YzIxLThhY2QtY2UxZTNmNjdjZTU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="ROMANCE",Always Be My Maybe 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/709.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Zootopia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5PTyk9y4fd5gO3056KfmsbXzKj.jpg" group-title="INFANTIL",Zootopia
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/612.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tom And Jerry Willy Wonka And The Chocolate Factory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfCYXxnaYXZgJGOcMut0qbuLFpG.jpg" group-title="INFANTIL",Tom And Jerry Willy Wonka And The Chocolate Factory
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/613.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Boss Baby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rctP6SAW7caWbx9NgxGnn3fU07.jpg" group-title="INFANTIL",The Boss Baby
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/614.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Moana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzLi9hWlG0wPmyiY6loTYpUiWah.jpg" group-title="INFANTIL",Moana
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/636.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Panda 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjCRYxKHtIKPsPf3DhiqFP9L6.jpg" group-title="INFANTIL",Kung Fu Panda 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/635.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Incredibles 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3EEb7o6NxK0pl0WsOswCos663y.jpg" group-title="INFANTIL",Incredibles 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/634.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hotel Transylvania 3 Summer Vacation" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ji1aJB052iPLnnzL082It683Nr.jpg" group-title="INFANTIL",Hotel Transylvania 3 Summer Vacation
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/633.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hotel Transylvania 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv4irFQr9ukOitGaYU6AVM4zOgt.jpg" group-title="INFANTIL",Hotel Transylvania 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/632.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Frozen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DiyLg3yrNBwiWuCGimf8ub9tZl.jpg" group-title="INFANTIL",Frozen
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/631.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z The History Of Trunks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yprvCrZcdWNvoGmhkEy93l5NRDW.jpg" group-title="INFANTIL",Dragon Ball Z The History Of Trunks
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/629.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z Lord Slug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg" group-title="INFANTIL",Dragon Ball Z Lord Slug
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/628.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z Dead Zone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgSKtVLW8RPSQc4ovtXLrpReCAT.jpg" group-title="INFANTIL",Dragon Ball Z Dead Zone
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/627.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z Coolers Revenge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSPplgwerlYhDWV362A1oec9Hg2.jpg" group-title="INFANTIL",Dragon Ball Z Coolers Revenge
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/626.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z  Bardock - The Father Of Goku" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TQtQcckcXwkWxcij6JxJiyVXkG.jpg" group-title="INFANTIL",Dragon Ball Z  Bardock - The Father Of Goku
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/625.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Curse Of The Blood Rubies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg" group-title="INFANTIL",Dragon Ball Curse Of The Blood Rubies
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/630.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Despicable Me3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/InJSedsAjy5VUYkanrBFGZngI8.jpg" group-title="INFANTIL",Despicable Me3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/620.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Despicable Me" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMiSiSOAm38Dakwv5mPDzIvI2Ds.jpg" group-title="INFANTIL",Despicable Me
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/619.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg" group-title="INFANTIL",Coco
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/621.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cars 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg" group-title="INFANTIL",Cars 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/617.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cars 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi86IUVNEaLAlRjUO6XA5xQFBW7.jpg" group-title="INFANTIL",Cars 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/616.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cars" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg" group-title="INFANTIL",Cars
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/615.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Barbie A Star Light Adventure" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s9CoIDiC9O1H9cdV97ogci5HdH.jpg" group-title="INFANTIL",Barbie A Star Light Adventure
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/624.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Avioes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avpnIa8tCEkr849RqkbjV6XVI3V.jpg" group-title="INFANTIL",Avioes
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/618.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Angry Birds" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MxdoHkpFf6XrID0mDfzdpsEeSA.jpg" group-title="INFANTIL",Angry Birds
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/623.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Era Do Gelo O Big Bang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWkMRR1l4iIcX1U7kOqVHtPVtVK.jpg" group-title="INFANTIL",A Era Do Gelo O Big Bang
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/622.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Police Academy Mission To Moscow" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSjLEofJvsTKCLeg3jTbmjYrnCV.jpg" group-title="SAGAS",Police Academy Mission To Moscow
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/611.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Police Academy 6 City Under Siege" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9YVToce8sYCEoKMJTFyHdAov4l.jpg" group-title="SAGAS",Police Academy 6 City Under Siege
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/610.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Police Academy 5 Assignment Miami Beach" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cohnyM8W0afsD6k18ABxWo9OcoA.jpg" group-title="SAGAS",Police Academy 5 Assignment Miami Beach
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/609.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Police Academy 4 Citizens On Patrol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u55dMZoQyVr7OJJY6F267xpBAQt.jpg" group-title="SAGAS",Police Academy 4 Citizens On Patrol
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/608.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Police Academy 3 Back In Training" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3C5UKfUXH9ggEzi93c4hFLPukR.jpg" group-title="SAGAS",Police Academy 3 Back In Training
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/607.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Police Academy 2 Their First Assignment" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLyvsTqDsprhv9aHdUBmH44WzRN.jpg" group-title="SAGAS",Police Academy 2 Their First Assignment
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/606.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Police Academy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHK0zqDcylS8tq8EEm0o9yFcYTC.jpg" group-title="SAGAS",Police Academy
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/605.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic World Fallen Kingdom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PWRDsozYR1VeExrFLqZ8Qpw07m.jpg" group-title="SAGAS",Jurassic World Fallen Kingdom
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/604.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic World" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xdqXJl5ukTvQOl3j0GOuHQnozJ.jpg" group-title="SAGAS",Jurassic World
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/603.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic Park III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YYEZFbZ7mA1qe153Nhjy4zvFUl.jpg" group-title="SAGAS",Jurassic Park III
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/602.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic Park The Lost World" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1fXmEQUCI9CjyHCCYOPBSq2DYo.jpg" group-title="SAGAS",Jurassic Park The Lost World
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/601.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV3JgTAq5mX6Zjy8GVSqXHncUHH.jpg" group-title="SAGAS",Jurassic Park
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/600.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Transporter Refueled" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iti0ub1R6JBCfwJarLktNL47HC.jpg" group-title="SAGAS",The Transporter Refueled
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/599.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transporter 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onN1vtvmdgV9w3zBOajmAYu1JTK.jpg" group-title="SAGAS",Transporter 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/598.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Transporter 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEvr1aoBcosbOrunlYMHfUPv7D6.jpg" group-title="SAGAS",Transporter 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/500.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Transporter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oXbugscgZFGNLtLOmlZunWQSTl.jpg" group-title="SAGAS",The Transporter
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/499.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Iron Man 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gosbkLZforgtlogcl8enFGKxZLm.jpg" group-title="SAGAS",Iron Man 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/498.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Iron Man 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26iZ9d09TtAOjKpSDEJhFXsZ2w.jpg" group-title="SAGAS",Iron Man 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/497.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Iron Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="SAGAS",Iron Man
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/496.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Twilight Saga Breaking Dawn - Part 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuGcJJanvsHiMp0z9BLP8HJz4TI.jpg" group-title="SAGAS",The Twilight Saga Breaking Dawn - Part 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/489.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Twilight Saga Breaking Dawn - Part 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moE2ft3vPI9nhqutKfwc2cH8iU4.jpg" group-title="SAGAS",The Twilight Saga Breaking Dawn - Part 1
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/488.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Twilight Saga  Eclipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVM5KHkt8xtBrl1EqFwJkojKcN6.jpg" group-title="SAGAS",The Twilight Saga  Eclipse
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/487.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Twilight Saga A New Moon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxPLSC0TSFYic0MsJm7M8ZGDHlq.jpg" group-title="SAGAS",The Twilight Saga A New Moon
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/486.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Twilight" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o8iX7Vi2fbDjqCXeGU25LKGtti.jpg" group-title="SAGAS",Twilight
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/485.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Amazing Spider-Man 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a96OGthCFu3smdGShkgl7Laxvm.jpg" group-title="SAGAS",The Amazing Spider-Man 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/484.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Amazing Spider-Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQmF1nLvXDzq3koIR2XFYJSz5gH.jpg" group-title="SAGAS",The Amazing Spider-Man
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/483.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Spider-Man 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7goptmUGulOnr2jM4wwc5ypHL.jpg" group-title="SAGAS",Spider-Man 3
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/482.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Spider-Man 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oF3GbxSSQxO9rWjrUjwAFi1fSF.jpg" group-title="SAGAS",Spider-Man 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/481.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Spider-Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coItyCy6sd6pAQIWBRhDIgF8tsN.jpg" group-title="SAGAS",Spider-Man
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/480.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Terminator Genisys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bsLapI6DxME6niIb74aSD71DRH.jpg" group-title="SAGAS",Terminator Genisys
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/479.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Terminator Salvation" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA35bB3q5NQyzjhKvrqY4LT6GP3.jpg" group-title="SAGAS",Terminator Salvation
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/478.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Terminator 3 A Rise Of The Machines" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycs9eita98mrcpkxXAL2GVPI0N8.jpg" group-title="SAGAS",Terminator 3 A Rise Of The Machines
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/477.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Terminator 2 A Judgment Day" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDz7z8TOv5PtX2OFqfZeY97X99.jpg" group-title="SAGAS",Terminator 2 A Judgment Day
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/476.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Terminator" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg" group-title="SAGAS",The Terminator
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/475.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Chronicles Of Narnia The Voyage Of The Dawn Treader" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo28SHz8d3VBt92vPWXM8yLyKb6.jpg" group-title="SAGAS",The Chronicles Of Narnia The Voyage Of The Dawn Treader
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/474.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Chronicles Of Narnia A Prince Caspian" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iP4njoOx6sC3tSWffET1q1wqTW.jpg" group-title="SAGAS",The Chronicles Of Narnia A Prince Caspian
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/473.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Chronicles Of Narnia The Lion The Witch And The Wardrobe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rElTfcZ09mfiDtD1wdE9EyXcUs.jpg" group-title="SAGAS",The Chronicles Of Narnia The Lion The Witch And The Wardrobe
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/472.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Superman Returns" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdaqPt2HXWK9q84E4yU4KvYm0rw.jpg" group-title="SAGAS",Superman Returns
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/471.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Superman IV The Quest For Peace" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq8vG3IUK7PzuccHEd8XzzDl0hx.jpg" group-title="SAGAS",Superman IV The Quest For Peace
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/470.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Superman III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ73cyIZE8z4rLwa8mL3ZI85U3e.jpg" group-title="SAGAS",Superman III
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/469.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Superman II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j49n4FUkQDV0dUn1OQC7yzS1GE.jpg" group-title="SAGAS",Superman II
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/468.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Superman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mr3Prp88zEQfeG84cxK83iYxTis.jpg" group-title="SAGAS",Superman
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/467.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Percy Jackson A Sea Of Monsters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYPCA2U3hb6qjhg0zDk65GzSzDM.jpg" group-title="SAGAS",Percy Jackson A Sea Of Monsters
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/466.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Percy Jackson & The Olympians The Lightning Thief" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axG4aEejImUaLeFUOhBzETuUdPb.jpg" group-title="SAGAS",Percy Jackson & The Olympians The Lightning Thief
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/465.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rocky Balboa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMPN50f0bmD0c9dUKhXsGZ4ZTQK.jpg" group-title="SAGAS",Rocky Balboa
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/464.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rocky V" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P2RiuLt31mWyb6duww8qlAhs6G.jpg" group-title="SAGAS",Rocky V
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/463.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rocky IV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg" group-title="SAGAS",Rocky IV
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/462.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rocky III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZoasreqTOrqKzQLGhlgJrsM6Cg.jpg" group-title="SAGAS",Rocky III
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/461.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rocky II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzUuxKcU8RR5PTPwHz0lCSQKFZr.jpg" group-title="SAGAS",Rocky II
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/460.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rocky" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ5rLUltZALHgM0hPUcnfrJehA7.jpg" group-title="SAGAS",Rocky
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/459.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Indiana Jones And The Kingdom Of The Crystal Skull" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg" group-title="SAGAS",Indiana Jones And The Kingdom Of The Crystal Skull
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/458.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Indiana Jones AndThe Last Crusade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg" group-title="SAGAS",Indiana Jones AndThe Last Crusade
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/457.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Indiana Jones And The Temple Of Doom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7AZegHzRAe2sIui4F74dAJ2b.jpg" group-title="SAGAS",Indiana Jones And The Temple Of Doom
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/456.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Raiders Of The Lost Ark" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbgNa3s2ubnQjModlnqdwPQLyvQ.jpg" group-title="SAGAS",Raiders Of The Lost Ark
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/455.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Good Day To Die Hard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6vVXC80o2mXRuRnQvuuwZdpnWJ.jpg" group-title="SAGAS",A Good Day To Die Hard
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/454.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Live Free Or Die Hard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9plIJeON2Zfwp6dLrqsD738KC.jpg" group-title="SAGAS",Live Free Or Die Hard
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/453.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hard With A Vengeance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Gdu7UEMLDnobLTKybARFVOvDh.jpg" group-title="SAGAS",Die Hard With A Vengeance
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/452.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hard 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vHKly0sePRowvOGZbQL5PuhwHn.jpg" group-title="SAGAS",Die Hard 2
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/451.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Die Hard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec4YZUbYOxPR9R4hMPk1qH5qJab.jpg" group-title="SAGAS",Die Hard
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/450.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rambo IV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcmxK6Zx9PjINDPDKWI8b5H2L1T.jpg" group-title="SAGAS",Rambo IV
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/449.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rambo III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQIVJhYzYiUgz1Jknu1ZTSAUwiz.jpg" group-title="SAGAS",Rambo III
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/448.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rambo First Blood Part II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXJSUAu7ObRI6pBleXdGUBJyTos.jpg" group-title="SAGAS",Rambo First Blood Part II
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/447.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rambo First Blood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAMjdsh4kHBorUksz9rLY3fJhMj.jpg" group-title="SAGAS",Rambo First Blood
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/446.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Blade Trinity" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WLdRruqgXSDxZMQ0flG3ajMWFd.jpg" group-title="SAGAS",Blade Trinity
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/445.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Blade II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nezC9IlK5WDIC5aGcbepqu9hOLC.jpg" group-title="SAGAS",Blade II
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/444.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Blade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipyGr2ckw6I1aRmUjYtjJLOT5fP.jpg" group-title="SAGAS",Blade
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/443.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Godfather Part III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg" group-title="SAGAS",The Godfather Part III
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/442.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Godfather Part II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB3AkkGMFplGlnPqQZ38W7bdD10.jpg" group-title="SAGAS",The Godfather Part II
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/441.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Godfather" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGxc3FXrTnVhlXcsT7wderz004K.jpg" group-title="SAGAS",The Godfather
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/440.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Yesterday 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rjaRIAqFPQNnMtqSMLtg0VEABi.jpg" group-title="ROMANCE",Yesterday 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/438.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Widows 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sv5VlJp6qwZpHNl69C6bqCSkGY.jpg" group-title="ACÇAO",Widows 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/364.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="What Men Want 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UDohjhxprSjsnZfqbbpuwxDPSS.jpg" group-title="COMEDIA",What Men Want 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/416.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Walk Ride Rodeo 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg" group-title="DRAMA",Walk Ride Rodeo 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/394.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Us 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,631,1000_AL_.jpg" group-title="TERROR",Us 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/408.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tudo Por Um Pop Star 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHpQ8X3i8vezo4EnQQPVMt7zBhP.jpg" group-title="ROMANCE",Tudo Por Um Pop Star 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/395.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tolkien 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg" group-title="ROMANCE",Tolkien 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/428.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Time Freak 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBUTy63y9lFGhEDu6nknKIdJd6h.jpg" group-title="ROMANCE",Time Freak 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/379.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Vanishing 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owYLROHpJWbYWEHjaEvDsnoz4Ux.jpg" group-title="DRAMA",The Vanishing 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/361.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Secret Life of Pets 2 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR8OI0YJeb46532HBUrvK2lyLzz.jpg" group-title="INFANTIL",The Secret Life of Pets 2 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/436.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Prodigy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIAIlKKk0r0GCFeDo2SNFzW8sbS.jpg" group-title="TERROR",The Prodigy
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/401.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Possession of Hannah Grace 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwf7FawiYVwnaP8S6ReLLziqWmj.jpg" group-title="TERROR",The Possession of Hannah Grace 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/373.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Poison Rose 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSzyUmg719TgAxarFZYWjLLMqvS.jpg" group-title="ACÇAO",The Poison Rose 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/420.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Old Man E The Gun 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Jmy8nsLpOVGNjv7EPHXIFC9iy5.jpg" group-title="DRAMA",The Old Man E The Gun 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/362.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Oath" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFOl3gdmdu7gM1IZ7X1b9bvjbjP.jpg" group-title="COMEDIA",The Oath
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/386.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Mustang 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg" group-title="DRAMA",The Mustang 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/374.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Mule 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx1ZFroYQ8CKGLn1XYM2Meal7Kv.jpg" group-title="ACÇAO",The Mule 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/396.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Lego Movie 2 The Second Part 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6tF0HDUJ7UbGz76pitj1OPTX5X.jpg" group-title="INFANTIL",The Lego Movie 2 The Second Part 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/400.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Boy 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o5WVpjAffERCTkrAmpqNlieAMz.jpg" group-title="FICÇAO",The Last Boy 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/365.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Intruder 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9xKyetr0ihJ2K6HJMeXzc4IwEv.jpg" group-title="DRAMA",The Intruder 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/426.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Happytime Murders 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3Putvz6l6ke6hJVnWCl9RFdPvw.jpg" group-title="ACÇAO",The Happytime Murders 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/390.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Grinch 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKfziciaKrdTzBZEnXH9tx6u2G.jpg" group-title="INFANTIL",The Grinch 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/366.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Final Wish 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lFQPOhOAg1gAQgFsXdfYfXFbI6.jpg" group-title="TERROR",The Final Wish 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/377.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Curse Of La Llorona 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDQXLykpZ668yPuBR1oedYAaScT.jpg" group-title="TERROR",The Curse Of La Llorona 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/427.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Boy Who Harnessed The Wind 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haUdPprsRrN7YkgC1adh9YvnqvR.jpg" group-title="DRAMA",The Boy Who Harnessed The Wind 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/393.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Stockholm 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg" group-title="DRAMA",Stockholm 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/411.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Spider-Man Into the Spider-Verse 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejqquyk7r3GLXPir62rksUmPKj5.jpg" group-title="INFANTIL",Spider-Man Into the Spider-Verse 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/380.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Spider-Man Far From Home 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wtOOCzTNxzwzwvpMeimMHQNTqI.jpg" group-title="AVENTURA",Spider-Man Far From Home 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/437.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Shazam 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urbMNBJdTNTxWWA5iJQqQdtWRBg.jpg" group-title="ACÇAO",Shazam 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/422.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Serenity 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3DVBrlCv4wp1tibgWhxZ5bLmsz.jpg" group-title="ACÇAO",Serenity 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/383.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="S.M.A.R.T. Chase" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvMnyfPtwVkvbV5etVScVeSquV6.jpg" group-title="ACÇAO",S.M.A.R.T. Chase
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/387.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rocketman 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jfvE63G5Sw7fUQR9sTmH4ocmDG.jpg" group-title="MUSICA",Rocketman 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/434.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Robin Hood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSlnp6REiluUxL0Xa628iWw5NJm.jpg" group-title="AVENTURA",Robin Hood
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/370.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Public Disturbance 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hVjwCDRa01fSh27nmXXrc1VGMa.jpg" group-title="COMEDIA",Public Disturbance 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/363.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Pokemon Detective Pikachu 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg" group-title="AVENTURA",Pokemon Detective Pikachu 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/414.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Pet Sematary 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/F66gh3HxLLHIsaxvH1zJSgPAsf.jpg" group-title="TERROR",Pet Sematary 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/424.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Paddleton" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtssTSvNgY8132hPRtp1DbciYJ6.jpg" group-title="DRAMA",Paddleton
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/384.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Overlord" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnkxGuVgA9B9Hy9kbHdhS9VVK9g.jpg" group-title="TERROR",Overlord
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/371.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mortal Engines 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="AVENTURA",Mortal Engines 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/368.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Miss Bala 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg" group-title="ACÇAO",Miss Bala 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/419.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Men In Black International 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjsZTifMv4B2SQftB18quO3KmAP.jpg" group-title="AVENTURA",Men In Black International 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/439.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mary Queen of Scots 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzTMHKxrnNQSFMIbt95iynPxywK.jpg" group-title="DRAMA",Mary Queen of Scots 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/385.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Look Away 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YTo6qopN0ACZ1dDSWnN6A743mi.jpg" group-title="TERROR",Look Away 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/378.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick 3 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylt62ORXZxcRePzZuI0xwJ6ERup.jpg" group-title="ACÇAO",John Wick 3 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/433.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Isnt It Romantic 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8Do066qGx8LNEMYAGZAaNADQC8.jpg" group-title="ROMANCE",Isnt It Romantic 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/389.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Instant Family 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsAUEXr1IJFpKB45gAB2dWtrsDL.jpg" group-title="COMEDIA",Instant Family 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/381.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="If Beale Street Could Talk 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZjuwAjrjo2LHFu6AC6A5rVu2zd.jpg" group-title="ROMANCE",If Beale Street Could Talk 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/391.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="How to Train Your Dragon The Hidden World 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="INFANTIL",How to Train Your Dragon The Hidden World 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/398.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hotel Mumbai 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqzc3jpLAo1L6xND7qyywLh2IrL.jpg" group-title="DRAMA",Hotel Mumbai 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/418.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hellboy 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIFrwfbOjGrMv48OAkDnrP3gcnj.jpg" group-title="AVENTURA",Hellboy 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/425.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Happy Death Day 2U" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVZpjvPfP01kIxHGfWMOCtMBdBH.jpg" group-title="TERROR",Happy Death Day 2U
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/402.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Halloween" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg" group-title="TERROR",Halloween
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/372.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Green Book 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaosA7NFPYBDueQ3X3SkADN6aS.jpg" group-title="COMEDIA",Green Book 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/382.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Godzilla KingOf The Monsters 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdvjynNpKV47aY6tLgaZ1NIRWfW.jpg" group-title="FICÇAO",Godzilla KingOf The Monsters 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/431.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Gloria Bell 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIO32ZGOOX52x2TPmHW4QUFF6Ko.jpg" group-title="ROMANCE",Gloria Bell 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/412.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fighting With My Family 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w8LcQAG2Yo8EQUjNyNPiBZ442B.jpg" group-title="COMEDIA",Fighting With My Family 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/417.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Beasts The Crimes Of Grindelwald 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg" group-title="AVENTURA",Fantastic Beasts The Crimes Of Grindelwald 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/375.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Escape Room 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="TERROR",Escape Room 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/399.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dumbo 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8Krn1Fb8h3DsCgGMxmS1zmMN1n.jpg" group-title="AVENTURA",Dumbo 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/421.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Drunk Parents 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwFaM56RH2gZYdPZgnVyVABYedR.jpg" group-title="COMEDIA",Drunk Parents 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/406.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Deadwood The Movie 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="DRAMA",Deadwood The Movie 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/413.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Phoenix 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FICÇAO",Dark Phoenix 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/435.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Creed II 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chSkoVYlD0rm5vIcmP7RLPFMmY5.jpg" group-title="DRAMA",Creed II 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/376.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cold Pursuit 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3dO43VmKK2k3UTJeKOnHrmT4fq.jpg" group-title="ACÇAO",Cold Pursuit 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/403.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Captain Marvel 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="AVENTURA",Captain Marvel 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/409.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bumblebee 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg" group-title="AVENTURA",Bumblebee 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/397.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Brightburn 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Eu0GvET9ZihUJL5L0E9lgDQYzJ.jpg" group-title="TERROR",Brightburn 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/432.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Batman vs Teenage Mutant Ninja Turtles 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNIXC7EtUdI9aJLQmnI7Cx3YTp2.jpg" group-title="INFANTIL",Batman vs Teenage Mutant Ninja Turtles 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/405.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Samaritan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV5kUiiazJ90KmPYcXyc6tyknku.jpg" group-title="TERROR",Bad Samaritan
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/388.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Avengers Endgame 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="AVENTURA",Avengers Endgame 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/429.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Avengement 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgbDomQPeLpgl6vB6Ehi8dYhQGQ.jpg" group-title="ACÇAO",Avengement 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/410.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Aquaman 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CKtfsbNqAf0uDfpLfKQyig6SDu.jpg" group-title="AVENTURA",Aquaman 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/392.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="American Exit 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRqff9JyOG4q03IeNHP5JKNcfat.jpg" group-title="DRAMA",American Exit 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/404.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alita Battle Angel 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eGbUjw721W02ofWEJt4zpiJDp.jpg" group-title="AVENTURA",Alita Battle Angel 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/423.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Aladdin 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYlzLYlhUXS0kW9T3ttAQ6fvZuV.jpg" group-title="AVENTURA",Aladdin 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/430.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Vigilante 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqupjV77h9Zno2YPwsUJuGqN8MZ.jpg" group-title="DRAMA",A Vigilante 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/415.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Star is Born 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDoQAJCZuXGv6d9hygUjm93C0OK.jpg" group-title="ROMANCE",A Star is Born 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/367.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Private War 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc0Y5YqA3mhUI4Cezy5wZsmbfLI.jpg" group-title="DRAMA",A Private War 2018
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/369.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Madea Family Funeral 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VxYsfaNTglHFL0hqgJGeXv0JOz.jpg" group-title="COMEDIA",A Madea Family Funeral 2019
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/407.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Johnny English Strikes Again" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XvIHDtzxr4Em9ZiAc7dg5tzTvW.jpg" group-title="COMEDIA",Johnny English Strikes Again
+http://ab1pro.co:8080/movie/C9w1usICYG/jHtYgPAj7F/358.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TVM" tvg-logo="" group-title="ESPANHA",ES: TVM
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/789.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TV3" tvg-logo="" group-title="ESPANHA",ES: TV3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/791.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TNT" tvg-logo="" group-title="ESPANHA",ES: TNT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Ten" tvg-logo="" group-title="ESPANHA",ES: Ten
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Telecinco" tvg-logo="" group-title="ESPANHA",ES: Telecinco
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TCM" tvg-logo="" group-title="ESPANHA",ES: TCM
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/800.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Paramount Channel" tvg-logo="" group-title="ESPANHA",ES: Paramount Channel
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/804.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Nova" tvg-logo="" group-title="ESPANHA",ES: Nova
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/805.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Nickelodeon" tvg-logo="" group-title="ESPANHA",ES: Nickelodeon
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/808.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Nick Jr" tvg-logo="" group-title="ESPANHA",ES: Nick Jr
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/806.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Neox" tvg-logo="" group-title="ESPANHA",ES: Neox
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/809.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Series" tvg-logo="" group-title="ESPANHA",ES: Movistar Series
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/816.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Formula 1" tvg-logo="" group-title="ESPANHA",ES: Movistar Formula 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/817.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar F1 HD" tvg-logo="" group-title="ESPANHA",ES: Movistar F1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Estrenos HD" tvg-logo="" group-title="ESPANHA",ES: Movistar Estrenos HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Drama" tvg-logo="" group-title="ESPANHA",ES: Movistar Drama
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/820.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Deportes" tvg-logo="" group-title="ESPANHA",ES: Movistar Deportes
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/822.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Comedia" tvg-logo="" group-title="ESPANHA",ES: Movistar Comedia
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/824.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar CineDoc&Roll" tvg-logo="" group-title="ESPANHA",ES: Movistar CineDoc&Roll
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Cine Español" tvg-logo="" group-title="ESPANHA",ES: Movistar Cine Español
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/873.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar Accion" tvg-logo="" group-title="ESPANHA",ES: Movistar Accion
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/828.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: MEGA" tvg-logo="" group-title="ESPANHA",ES: MEGA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLiga" tvg-logo="" group-title="ESPANHA",ES: M. LaLiga
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Sexta HD" tvg-logo="" group-title="ESPANHA",ES: La Sexta HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/844.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Sexta" tvg-logo="" group-title="ESPANHA",ES: La Sexta
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/845.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La 2" tvg-logo="" group-title="ESPANHA",ES: La 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/843.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La 1 HD" tvg-logo="" group-title="ESPANHA",ES: La 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/846.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La 1" tvg-logo="" group-title="ESPANHA",ES: La 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/847.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Iberalia TV" tvg-logo="" group-title="ESPANHA",ES: Iberalia TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Hollywood" tvg-logo="" group-title="ESPANHA",ES: Hollywood
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/850.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: GOL" tvg-logo="" group-title="ESPANHA",ES: GOL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX life" tvg-logo="" group-title="ESPANHA",ES: FOX life
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX" tvg-logo="" group-title="ESPANHA",ES: FOX
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/856.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FDF" tvg-logo="" group-title="ESPANHA",ES: FDF
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/857.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Esport3" tvg-logo="" group-title="ESPANHA",ES: Esport3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/861.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Energy" tvg-logo="" group-title="ESPANHA",ES: Energy
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/862.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DMAX" tvg-logo="" group-title="ESPANHA",ES: DMAX
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/863.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DKISS." tvg-logo="" group-title="ESPANHA",ES: DKISS.
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Divinity" tvg-logo="" group-title="ESPANHA",ES: Divinity
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Disney XD" tvg-logo="" group-title="ESPANHA",ES: Disney XD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Disney Junior" tvg-logo="" group-title="ESPANHA",ES: Disney Junior
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/867.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Disney Channel" tvg-logo="" group-title="ESPANHA",ES: Disney Channel
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/869.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Discovery Channel" tvg-logo="" group-title="ESPANHA",ES: Discovery Channel
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Decasa" tvg-logo="" group-title="ESPANHA",ES: Decasa
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/871.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: De Pelicula" tvg-logo="" group-title="ESPANHA",ES: De Pelicula
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/872.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DARK" tvg-logo="" group-title="ESPANHA",ES: DARK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/874.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Cuatro HD" tvg-logo="" group-title="ESPANHA",ES: Cuatro HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Cuatro" tvg-logo="" group-title="ESPANHA",ES: Cuatro
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/744.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: COSMO" tvg-logo="" group-title="ESPANHA",ES: COSMO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/747.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Clan TVE" tvg-logo="" group-title="ESPANHA",ES: Clan TVE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/751.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Panda" tvg-logo="" group-title="ESPANHA",ES: Canal Panda
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/756.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Orbe 21" tvg-logo="" group-title="ESPANHA",ES: Canal Orbe 21
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/757.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Calle 13" tvg-logo="" group-title="ESPANHA",ES: Calle 13
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/761.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Bom TV" tvg-logo="" group-title="ESPANHA",ES: Bom TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/763.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Boing" tvg-logo="" group-title="ESPANHA",ES: Boing
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/764.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: BeMad HD" tvg-logo="" group-title="ESPANHA",ES: BeMad HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/765.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Aragon TV" tvg-logo="" group-title="ESPANHA",ES: Aragon TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Antena 3" tvg-logo="" group-title="ESPANHA",ES: Antena 3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: #0" tvg-logo="" group-title="ESPANHA",ES: #0
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/754.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: VOYAGE HD" tvg-logo="" group-title="FRANCA",FR: VOYAGE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/703.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TREK" tvg-logo="" group-title="FRANCA",FR: TREK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/704.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TOUTE L'HISTOIRE HD" tvg-logo="" group-title="FRANCA",FR: TOUTE L'HISTOIRE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TIJI" tvg-logo="" group-title="FRANCA",FR: TIJI
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/679.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FRANCA",FR: TF1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/637.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELETOON" tvg-logo="" group-title="FRANCA",FR: TELETOON
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/680.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TCM CINEMA" tvg-logo="" group-title="FRANCA",FR: TCM CINEMA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SYFY HD" tvg-logo="" group-title="FRANCA",FR: SYFY HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SUNDANCE CHANNEL HD" tvg-logo="" group-title="FRANCA",FR: SUNDANCE CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FRANCA",FR: SERIE CLUB HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SEASONS HD" tvg-logo="" group-title="FRANCA",FR: SEASONS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/662.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SCIENCE ET VIE TV" tvg-logo="" group-title="FRANCA",FR: SCIENCE ET VIE TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL 9" tvg-logo="" group-title="FRANCA",FR: RTL 9
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/643.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="FRANCA",FR: RMC Sport 4 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/669.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="" group-title="FRANCA",FR: RMC Sport 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/668.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="FRANCA",FR: RMC Sport 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/667.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="" group-title="FRANCA",FR: RMC Sport 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE  HD" tvg-logo="" group-title="FRANCA",FR: PLANETE  HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE  CI HD" tvg-logo="" group-title="FRANCA",FR: PLANETE  CI HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/691.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE  AE HD" tvg-logo="" group-title="FRANCA",FR: PLANETE  AE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/692.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS MAX HD" tvg-logo="" group-title="FRANCA",FR: OCS MAX HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS GEANTS HD" tvg-logo="" group-title="FRANCA",FR: OCS GEANTS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS CITY HD" tvg-logo="" group-title="FRANCA",FR: OCS CITY HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS CHOC HD" tvg-logo="" group-title="FRANCA",FR: OCS CHOC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELODEON HD" tvg-logo="" group-title="FRANCA",FR: NICKELODEON HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: National Geographic Wild HD" tvg-logo="" group-title="FRANCA",FR: National Geographic Wild HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: National Geographic Channel HD" tvg-logo="" group-title="FRANCA",FR: National Geographic Channel HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/686.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MTV HD" tvg-logo="" group-title="FRANCA",FR: MTV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/695.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MCM Top (Opt-1)" tvg-logo="" group-title="FRANCA",FR: MCM Top (Opt-1)
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/696.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="FRANCA",FR: MANGAS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: HISTOIRE" tvg-logo="" group-title="FRANCA",FR: HISTOIRE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/693.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 5 HD" tvg-logo="" group-title="FRANCA",FR: FRANCE 5 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/641.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 4 HD" tvg-logo="" group-title="FRANCA",FR: FRANCE 4 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/640.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 3 HD" tvg-logo="" group-title="FRANCA",FR: FRANCE 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 24 HD" tvg-logo="" group-title="FRANCA",FR: FRANCE 24 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/642.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 2 HD" tvg-logo="" group-title="FRANCA",FR: FRANCE 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/638.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="" group-title="FRANCA",FR: EUROSPORT 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/670.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="" group-title="FRANCA",FR: EUROSPORT 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="" group-title="FRANCA",FR: E! ENTERTAINMENT HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY XD HD" tvg-logo="" group-title="FRANCA",FR: DISNEY XD HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/698.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="" group-title="FRANCA",FR: DISNEY JUNIOR HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CINEMA HD" tvg-logo="" group-title="FRANCA",FR: DISNEY CINEMA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/683.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="FRANCA",FR: DISNEY CHANNEL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/684.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY SCIENCE HD" tvg-logo="" group-title="FRANCA",FR: DISCOVERY SCIENCE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/699.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="FRANCA",FR: DISCOVERY INVESTIGATION HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY FAMILY HD" tvg-logo="" group-title="FRANCA",FR: DISCOVERY FAMILY HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/701.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="FRANCA",FR: DISCOVERY CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/690.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: COMEDIE  HD" tvg-logo="" group-title="FRANCA",FR: COMEDIE  HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/645.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE  PREMIER HD" tvg-logo="" group-title="FRANCA",FR: CINE  PREMIER HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE  EMOTION HD" tvg-logo="" group-title="FRANCA",FR: CINE  EMOTION HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE  CLUB HD" tvg-logo="" group-title="FRANCA",FR: CINE  CLUB HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE   FRISSON" tvg-logo="" group-title="FRANCA",FR: CINE   FRISSON
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE   CLASSIC HD" tvg-logo="" group-title="FRANCA",FR: CINE   CLASSIC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Chasse & Peche" tvg-logo="" group-title="FRANCA",FR: Chasse & Peche
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/705.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CARTOON NETWORK" tvg-logo="" group-title="FRANCA",FR: CARTOON NETWORK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL J" tvg-logo="" group-title="FRANCA",FR: CANAL J
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL  SERIES HD" tvg-logo="" group-title="FRANCA",FR: CANAL  SERIES HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL  FAMILY HD" tvg-logo="" group-title="FRANCA",FR: CANAL  FAMILY HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL  CINEMA HD" tvg-logo="" group-title="FRANCA",FR: CANAL  CINEMA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL   HD" tvg-logo="" group-title="FRANCA",FR: CANAL   HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL   DECALE HD" tvg-logo="" group-title="FRANCA",FR: CANAL   DECALE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: C8 HD" tvg-logo="" group-title="FRANCA",FR: C8 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BOOMERANG" tvg-logo="" group-title="FRANCA",FR: BOOMERANG
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/681.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="" group-title="FRANCA",FR: BEIN SPORTS 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/665.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="" group-title="FRANCA",FR: BEIN SPORTS 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="" group-title="FRANCA",FR: BEIN SPORTS 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ANIMAUX HD" tvg-logo="" group-title="FRANCA",FR: ANIMAUX HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/702.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ACTION HD" tvg-logo="" group-title="FRANCA",FR: ACTION HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 13EME RUE HD" tvg-logo="" group-title="FRANCA",FR: 13EME RUE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/644.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Zdf Info" tvg-logo="" group-title="ALEMANHA",[DE] Zdf Info
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] MTV" tvg-logo="" group-title="ALEMANHA",[DE] MTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/878.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] E!" tvg-logo="" group-title="ALEMANHA",[DE] E!
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] COMEDY CENTRA" tvg-logo="" group-title="ALEMANHA",[DE] COMEDY CENTRA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Tlc" tvg-logo="" group-title="ALEMANHA",[DE] Tlc
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/882.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Super Rtl" tvg-logo="" group-title="ALEMANHA",[DE] Super Rtl
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sport1 Hd" tvg-logo="" group-title="ALEMANHA",[DE] Sport1 Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/885.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sport 1+ Hd" tvg-logo="" group-title="ALEMANHA",[DE] Sport 1+ Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/886.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] UNIVERSAL CHANNEL" tvg-logo="" group-title="ALEMANHA",[DE] UNIVERSAL CHANNEL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/887.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SKY SPORT 2" tvg-logo="" group-title="ALEMANHA",[DE] SKY SPORT 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/888.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SKY SPORT 1" tvg-logo="" group-title="ALEMANHA",[DE] SKY SPORT 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/889.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] FC BAYERN TV" tvg-logo="" group-title="ALEMANHA",[DE] FC BAYERN TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/890.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] EUROSPORT 2" tvg-logo="" group-title="ALEMANHA",[DE] EUROSPORT 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/891.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] EUROSPORT 1" tvg-logo="" group-title="ALEMANHA",[DE] EUROSPORT 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/892.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SKY SPORTS NEW" tvg-logo="" group-title="ALEMANHA",[DE] SKY SPORTS NEW
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Skycinema24" tvg-logo="" group-title="ALEMANHA",[DE] Skycinema24
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Skycinema" tvg-logo="" group-title="ALEMANHA",[DE] Skycinema
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Skyaction" tvg-logo="" group-title="ALEMANHA",[DE] Skyaction
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] DISNEY CINEMA" tvg-logo="" group-title="ALEMANHA",[DE] DISNEY CINEMA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] TNT Filme Hd" tvg-logo="" group-title="ALEMANHA",[DE] TNT Filme Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Cinema Hits" tvg-logo="" group-title="ALEMANHA",[DE] Sky Cinema Hits
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SKY FAMILY" tvg-logo="" group-title="ALEMANHA",[DE] SKY FAMILY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/912.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SKY COMEDY" tvg-logo="" group-title="ALEMANHA",[DE] SKY COMEDY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/913.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SKY CRIME" tvg-logo="" group-title="ALEMANHA",[DE] SKY CRIME
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/914.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Cinema 1" tvg-logo="" group-title="ALEMANHA",[DE] Sky Cinema 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/915.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Cinema" tvg-logo="" group-title="ALEMANHA",[DE] Sky Cinema
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/916.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 1" tvg-logo="" group-title="ALEMANHA",[DE] Sky Bundesliga 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/917.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Bundesliga 2" tvg-logo="" group-title="ALEMANHA",[DE] Sky Bundesliga 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/924.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sky Atlantic" tvg-logo="" group-title="ALEMANHA",[DE] Sky Atlantic
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/925.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sixx" tvg-logo="" group-title="ALEMANHA",[DE] Sixx
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/926.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Sat1 Hd" tvg-logo="" group-title="ALEMANHA",[DE] Sat1 Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/927.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SAT 1 Gold" tvg-logo="" group-title="ALEMANHA",[DE] SAT 1 Gold
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/928.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Rtlplus" tvg-logo="" group-title="ALEMANHA",[DE] Rtlplus
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/929.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] RTL 2 Hd" tvg-logo="" group-title="ALEMANHA",[DE] RTL 2 Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/930.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] DAS ERSTE" tvg-logo="" group-title="ALEMANHA",[DE] DAS ERSTE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/931.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] 13TH STREET" tvg-logo="" group-title="ALEMANHA",[DE] 13TH STREET
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/933.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] RTL Nitro" tvg-logo="" group-title="ALEMANHA",[DE] RTL Nitro
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/934.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Rtl Living" tvg-logo="" group-title="ALEMANHA",[DE] Rtl Living
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/935.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] RTL" tvg-logo="" group-title="ALEMANHA",[DE] RTL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/936.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] WELT" tvg-logo="" group-title="ALEMANHA",[DE] WELT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/938.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] SAT 1" tvg-logo="" group-title="ALEMANHA",[DE] SAT 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/939.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Pro7 Maxx" tvg-logo="" group-title="ALEMANHA",[DE] Pro7 Maxx
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/940.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Pro7" tvg-logo="" group-title="ALEMANHA",[DE] Pro7
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/941.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] PRO7 FUN" tvg-logo="" group-title="ALEMANHA",[DE] PRO7 FUN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/942.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Ntv" tvg-logo="" group-title="ALEMANHA",[DE] Ntv
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/944.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] TOGGO PLUS" tvg-logo="" group-title="ALEMANHA",[DE] TOGGO PLUS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/945.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Kika" tvg-logo="" group-title="ALEMANHA",[DE] Kika
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/949.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] CARTOON NETWORK" tvg-logo="" group-title="ALEMANHA",[DE] CARTOON NETWORK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/950.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] BOOMERANG" tvg-logo="" group-title="ALEMANHA",[DE] BOOMERANG
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/951.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Fox Hd" tvg-logo="" group-title="ALEMANHA",[DE] Fox Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/953.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] KABEL 1 DOKU" tvg-logo="" group-title="ALEMANHA",[DE] KABEL 1 DOKU
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/954.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Disney Junior / Sky" tvg-logo="" group-title="ALEMANHA",[DE] Disney Junior / Sky
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/955.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE]  KABEL EINS CLASSICS" tvg-logo="" group-title="ALEMANHA",[DE]  KABEL EINS CLASSICS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/956.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Dazn 2 Hd" tvg-logo="" group-title="ALEMANHA",[DE] Dazn 2 Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/959.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Dazn 1 Hd" tvg-logo="" group-title="ALEMANHA",[DE] Dazn 1 Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] Axn" tvg-logo="" group-title="ALEMANHA",[DE] Axn
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/962.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] PLANET" tvg-logo="" group-title="ALEMANHA",[DE] PLANET
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/963.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] 3 Sat Hd" tvg-logo="" group-title="ALEMANHA",[DE] 3 Sat Hd
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[DE] 13street" tvg-logo="" group-title="ALEMANHA",[DE] 13street
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ZOOMOO HD" tvg-logo="" group-title="BRASIL",BR: ZOOMOO HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: WOOHOO HD" tvg-logo="" group-title="BRASIL",BR: WOOHOO HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/596.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: WARNER CHANNEL HD" tvg-logo="" group-title="BRASIL",BR: WARNER CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: VIVA HD" tvg-logo="" group-title="BRASIL",BR: VIVA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: UNIVERSAL CHANNEL HD" tvg-logo="" group-title="BRASIL",BR: UNIVERSAL CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TV GAZETA" tvg-logo="" group-title="BRASIL",BR: TV GAZETA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TNT SERIES HD" tvg-logo="" group-title="BRASIL",BR: TNT SERIES HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TNT HD" tvg-logo="" group-title="BRASIL",BR: TNT HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TELECINE TOUCH HD" tvg-logo="" group-title="BRASIL",BR: TELECINE TOUCH HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TELECINE PREMIUM HD" tvg-logo="" group-title="BRASIL",BR: TELECINE PREMIUM HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TELECINE PIPOCA HD" tvg-logo="" group-title="BRASIL",BR: TELECINE PIPOCA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TELECINE FUN HD" tvg-logo="" group-title="BRASIL",BR: TELECINE FUN HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TELECINE CULT HD" tvg-logo="" group-title="BRASIL",BR: TELECINE CULT HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TELECINE ACTION HD" tvg-logo="" group-title="BRASIL",BR: TELECINE ACTION HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TCM" tvg-logo="" group-title="BRASIL",BR: TCM
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TBS" tvg-logo="" group-title="BRASIL",BR: TBS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: STUDIO UNIVERSAL" tvg-logo="" group-title="BRASIL",BR: STUDIO UNIVERSAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SPORTV HD" tvg-logo="" group-title="BRASIL",BR: SPORTV HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SPORTV 3 HD" tvg-logo="" group-title="BRASIL",BR: SPORTV 3 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SPORTV 2 HD" tvg-logo="" group-title="BRASIL",BR: SPORTV 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SPACE HD" tvg-logo="" group-title="BRASIL",BR: SPACE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SONY" tvg-logo="" group-title="BRASIL",BR: SONY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SBT NORDESTE HD" tvg-logo="" group-title="BRASIL",BR: SBT NORDESTE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SBT HD" tvg-logo="" group-title="BRASIL",BR: SBT HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SBT" tvg-logo="" group-title="BRASIL",BR: SBT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: REDE TV" tvg-logo="" group-title="BRASIL",BR: REDE TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: RECORD SP FHD" tvg-logo="" group-title="BRASIL",BR: RECORD SP FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE CLUBES" tvg-logo="" group-title="BRASIL",BR: PREMIERE CLUBES
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 8" tvg-logo="" group-title="BRASIL",BR: PREMIERE 8
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 7" tvg-logo="" group-title="BRASIL",BR: PREMIERE 7
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 6 FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 6 FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 5 HD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 5 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 4" tvg-logo="" group-title="BRASIL",BR: PREMIERE 4
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 3" tvg-logo="" group-title="BRASIL",BR: PREMIERE 3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 2" tvg-logo="" group-title="BRASIL",BR: PREMIERE 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE 1" tvg-logo="" group-title="BRASIL",BR: PREMIERE 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PLAY TV" tvg-logo="" group-title="BRASIL",BR: PLAY TV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="BRASIL",BR: PARAMOUNT CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: OFF HD" tvg-logo="" group-title="BRASIL",BR: OFF HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="BRASIL",BR: NATIONAL GEOGRAPHIC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: NATGEO WILD HD" tvg-logo="" group-title="BRASIL",BR: NATGEO WILD HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: NATGEO KIDS HD" tvg-logo="" group-title="BRASIL",BR: NATGEO KIDS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: MULTISHOW HD" tvg-logo="" group-title="BRASIL",BR: MULTISHOW HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: MEGAPIX FHD" tvg-logo="" group-title="BRASIL",BR: MEGAPIX FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: MAX UP" tvg-logo="" group-title="BRASIL",BR: MAX UP
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: MAX PRIME" tvg-logo="" group-title="BRASIL",BR: MAX PRIME
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: MAX" tvg-logo="" group-title="BRASIL",BR: MAX
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: LIFETIME" tvg-logo="" group-title="BRASIL",BR: LIFETIME
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: INVESTIGAÇÃO DISCOVERY" tvg-logo="" group-title="BRASIL",BR: INVESTIGAÇÃO DISCOVERY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HISTORY CHANNEL HD" tvg-logo="" group-title="BRASIL",BR: HISTORY CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO SIGNATURE HD" tvg-logo="" group-title="BRASIL",BR: HBO SIGNATURE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO PLUS HD" tvg-logo="" group-title="BRASIL",BR: HBO PLUS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO FHD" tvg-logo="" group-title="BRASIL",BR: HBO FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO FAMILY FHD" tvg-logo="" group-title="BRASIL",BR: HBO FAMILY FHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO 2 HD" tvg-logo="" group-title="BRASIL",BR: HBO 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GNT" tvg-logo="" group-title="BRASIL",BR: GNT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GLOOB HD" tvg-logo="" group-title="BRASIL",BR: GLOOB HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GLOBO RJ" tvg-logo="" group-title="BRASIL",BR: GLOBO RJ
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GLOBO MINAS" tvg-logo="" group-title="BRASIL",BR: GLOBO MINAS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GLOBO INTERNACIONAL" tvg-logo="" group-title="BRASIL",BR: GLOBO INTERNACIONAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GLOBO EPTV SAO CARLOS" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV SAO CARLOS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GLOBO AMAZONAS" tvg-logo="" group-title="BRASIL",BR: GLOBO AMAZONAS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: FX" tvg-logo="" group-title="BRASIL",BR: FX
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: FUTURA HD" tvg-logo="" group-title="BRASIL",BR: FUTURA HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: FOX SPORTS HD" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: FOX SPORTS 2 HD" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS 2 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN HD" tvg-logo="" group-title="BRASIL",BR: ESPN HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: EI PLUS" tvg-logo="" group-title="BRASIL",BR: EI PLUS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY WORLD HD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY WORLD HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY TURBO HD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY TURBO HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY TLC HD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY TLC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY THEATER" tvg-logo="" group-title="BRASIL",BR: DISCOVERY THEATER
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY SCIENCE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY KIDS" tvg-logo="" group-title="BRASIL",BR: DISCOVERY KIDS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY HOME & HEALTH HD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY HOME & HEALTH HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY CIVILIZATION HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY CHANNEL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DAZN BRASIL HD" tvg-logo="" group-title="BRASIL",BR: DAZN BRASIL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: CURTA! HD" tvg-logo="" group-title="BRASIL",BR: CURTA! HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: COMEDY CENTRAL HD" tvg-logo="" group-title="BRASIL",BR: COMEDY CENTRAL HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: COMBATE HD" tvg-logo="" group-title="BRASIL",BR: COMBATE HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: CNT" tvg-logo="" group-title="BRASIL",BR: CNT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: CINEMAX HD" tvg-logo="" group-title="BRASIL",BR: CINEMAX HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: CANAL BRASIL" tvg-logo="" group-title="BRASIL",BR: CANAL BRASIL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BOOMERANG HD" tvg-logo="" group-title="BRASIL",BR: BOOMERANG HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BIS HD" tvg-logo="" group-title="BRASIL",BR: BIS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BAND SPORTS HD" tvg-logo="" group-title="BRASIL",BR: BAND SPORTS HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BAND SP HD" tvg-logo="" group-title="BRASIL",BR: BAND SP HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BAND NORDESTE" tvg-logo="" group-title="BRASIL",BR: BAND NORDESTE
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: AXN HD" tvg-logo="" group-title="BRASIL",BR: AXN HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ARTE 1 HD" tvg-logo="" group-title="BRASIL",BR: ARTE 1 HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="" group-title="BRASIL",BR: ANIMAL PLANET HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: AMC HD" tvg-logo="" group-title="BRASIL",BR: AMC HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: A&E" tvg-logo="" group-title="BRASIL",BR: A&E
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: A FAZENDA" tvg-logo="" group-title="BRASIL",BR: A FAZENDA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GLOBO SP" tvg-logo="" group-title="BRASIL",BR: GLOBO SP
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BBC 4" tvg-logo="" group-title="INGLATERRA",UK: BBC 4
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIVIDRED" tvg-logo="" group-title="FOR ADULTS",VIVIDRED
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1039.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SHALUNTV" tvg-logo="" group-title="FOR ADULTS",SHALUNTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1046.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SEXTOSENSO" tvg-logo="" group-title="FOR ADULTS",SEXTOSENSO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1028.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCT" tvg-logo="" group-title="FOR ADULTS",SCT
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1033.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RUSNOCH" tvg-logo="" group-title="FOR ADULTS",RUSNOCH
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1042.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDLIGHTHD" tvg-logo="" group-title="FOR ADULTS",REDLIGHTHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1023.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAPTVTEENS" tvg-logo="" group-title="FOR ADULTS",FAPTVTEENS
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1051.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAPTVPARODY" tvg-logo="" group-title="FOR ADULTS",FAPTVPARODY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1050.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAPTVLESBIAN" tvg-logo="" group-title="FOR ADULTS",FAPTVLESBIAN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1052.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAPTVCOMPILATION" tvg-logo="" group-title="FOR ADULTS",FAPTVCOMPILATION
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1053.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAPTVANAL" tvg-logo="" group-title="FOR ADULTS",FAPTVANAL
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1049.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAPTV3" tvg-logo="" group-title="FOR ADULTS",FAPTV3
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1041.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAPTV2" tvg-logo="" group-title="FOR ADULTS",FAPTV2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1040.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EROXHD" tvg-logo="" group-title="FOR ADULTS",EROXHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1045.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EGOISTTV" tvg-logo="" group-title="FOR ADULTS",EGOISTTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1044.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DORCELTV" tvg-logo="" group-title="FOR ADULTS",DORCELTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1026.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CENTOXCENTO" tvg-logo="" group-title="FOR ADULTS",CENTOXCENTO
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1034.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANDYTV" tvg-logo="" group-title="FOR ADULTS",CANDYTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1038.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIVATETV" tvg-logo="" group-title="FOR ADULTS",PRIVATETV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1031.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLAYBOY" tvg-logo="" group-title="FOR ADULTS",PLAYBOY
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1037.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PINKTV" tvg-logo="" group-title="FOR ADULTS",PINKTV
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1030.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PENTHOUSE2" tvg-logo="" group-title="FOR ADULTS",PENTHOUSE2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1048.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PENTHOUSE1" tvg-logo="" group-title="FOR ADULTS",PENTHOUSE1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1047.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PASSIONXXX" tvg-logo="" group-title="FOR ADULTS",PASSIONXXX
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1032.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NUART" tvg-logo="" group-title="FOR ADULTS",NUART
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1035.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OH-LA-LA" tvg-logo="" group-title="FOR ADULTS",OH-LA-LA
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1025.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OH-AX-HD" tvg-logo="" group-title="FOR ADULTS",OH-AX-HD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1043.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JASMIN" tvg-logo="" group-title="FOR ADULTS",JASMIN
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1036.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HUSTLERHD" tvg-logo="" group-title="FOR ADULTS",HUSTLERHD
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1027.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HUSTLER" tvg-logo="" group-title="FOR ADULTS",HUSTLER
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1029.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: KIK" tvg-logo="" group-title="FOR ADULTS",XXX: KIK
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Portugal" tvg-logo="" group-title="EXCLUSIVOS",HBO Portugal
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/729.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family" tvg-logo="" group-title="EXCLUSIVOS",HBO Family
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Os Simpsons" tvg-logo="" group-title="EXCLUSIVOS",Os Simpsons
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/739.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix" tvg-logo="" group-title="EXCLUSIVOS",Netflix
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/727.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Marvel II" tvg-logo="" group-title="EXCLUSIVOS",Marvel II
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Marvel" tvg-logo="" group-title="EXCLUSIVOS",Marvel
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Kids" tvg-logo="" group-title="EXCLUSIVOS",Fox Kids
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/741.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filmes Steven Seagal" tvg-logo="" group-title="EXCLUSIVOS",Filmes Steven Seagal
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/735.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filmes Old Western" tvg-logo="" group-title="EXCLUSIVOS",Filmes Old Western
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/732.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filmes Jason Statham" tvg-logo="" group-title="EXCLUSIVOS",Filmes Jason Statham
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filmes Comédia" tvg-logo="" group-title="EXCLUSIVOS",Filmes Comédia
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/731.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filmes Arnold Schwarzenegger" tvg-logo="" group-title="EXCLUSIVOS",Filmes Arnold Schwarzenegger
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/734.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DC Comics" tvg-logo="" group-title="EXCLUSIVOS",DC Comics
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/1089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Family Guy/American Dad" tvg-logo="" group-title="EXCLUSIVOS",Family Guy/American Dad
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/740.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dragonball Movies" tvg-logo="" group-title="EXCLUSIVOS",Dragonball Movies
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/743.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Documentários" tvg-logo="" group-title="EXCLUSIVOS",Documentários
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/736.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Kids" tvg-logo="" group-title="EXCLUSIVOS",Disney Kids
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/742.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Csi Las Vegas" tvg-logo="" group-title="EXCLUSIVOS",Csi Las Vegas
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/728.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Apanhados 2" tvg-logo="" group-title="EXCLUSIVOS",Apanhados 2
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Apanhados 1" tvg-logo="" group-title="EXCLUSIVOS",Apanhados 1
+http://ab1pro.co:8080/live/C9w1usICYG/jHtYgPAj7F/737.ts
